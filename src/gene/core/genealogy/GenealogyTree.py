@@ -1,11 +1,6 @@
-from gene.core.person import Person
-
-
 class GenealogyTree:
     @property
-    def root_list(self) -> list[Person]:
+    def root_list(self) -> list["GenealogyPerson"]:
         return [
-            person
-            for person in self.person_list
-            if person.father_id is None and person.mother_id is None
+            person for person in self.genealogy_person_list if person.is_root
         ]

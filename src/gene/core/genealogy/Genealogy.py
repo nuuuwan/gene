@@ -17,6 +17,7 @@ if __name__ == "__main__":
     p1 = Person(
         "1",
         ["Albert", "Einstein"],
+        "M",
         "1901-03-14",
         "1954-04-18",
         ["Born in Germany", "Died in USA"],
@@ -24,10 +25,12 @@ if __name__ == "__main__":
         "3",
         1,
         1,
+        [],
     )
     p2 = Person(
         "2",
         ["Hermann", "Einstein"],
+        "M",
         "1847-08-30",
         "1902-10-10",
         ["Born in Germany", "Died in Italy"],
@@ -35,11 +38,13 @@ if __name__ == "__main__":
         None,
         None,
         None,
+        ["3"],
     )
 
     p3 = Person(
         "3",
         ["Pauline", "Koch"],
+        "F",
         "1858-02-08",
         "1920-02-20",
         ["Born in Germany", "Died in Germany"],
@@ -47,6 +52,7 @@ if __name__ == "__main__":
         None,
         None,
         None,
+        ["2"],
     )
 
     g = Genealogy("Einstein Family", [p1, p2, p3])
