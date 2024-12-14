@@ -1,0 +1,56 @@
+{
+  "id": "Einstein Family",
+  "person_list": [
+    {
+      "id": "1",
+      "names": [
+        "Albert",
+        "Einstein"
+      ],
+      "date_of_birth": "1901-03-14",
+      "date_of_death": "1954-04-18",
+      "detail_lines": [
+        "Born in Germany",
+        "Died in USA"
+      ],
+      "father_id": "2",
+      "mother_id": "3",
+      "father_num": 1,
+      "mother_num": 1
+    },
+    {
+      "id": "2",
+      "names": [
+        "Hermann",
+        "Einstein"
+      ],
+      "date_of_birth": "1847-08-30",
+      "date_of_death": "1902-10-10",
+      "detail_lines": [
+        "Born in Germany",
+        "Died in Italy"
+      ],
+      "father_id": null,
+      "mother_id": null,
+      "father_num": null,
+      "mother_num": null
+    },
+    {
+      "id": "3",
+      "names": [
+        "Pauline",
+        "Koch"
+      ],
+      "date_of_birth": "1858-02-08",
+      "date_of_death": "1920-02-20",
+      "detail_lines": [
+        "Born in Germany",
+        "Died in Germany"
+      ],
+      "father_id": null,
+      "mother_id": null,
+      "father_num": null,
+      "mother_num": null
+    }
+  ]
+}
