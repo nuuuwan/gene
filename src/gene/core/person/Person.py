@@ -16,3 +16,6 @@ class Person:
     mother_id: str
     father_num: int
     mother_num: int
+
+    def __str__(self):
+        return " ".join(self.names)

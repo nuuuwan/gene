@@ -8,7 +8,7 @@ from gene.core.person import Person
 log = Log("Tree")
 
 
-class GenealogySerialize:
+class GenealogySerializeJSON:
     @property
     def id_spaced(self):
         return self.id.replace(" ", "-")
@@ -37,6 +37,16 @@ class GenealogySerialize:
         return tree
 
 
+class GenealogyTree:
+    @property
+    def root_list(self) -> list[Person]:
+        return [
+            person
+            for person in self.person_list
+            if person.father_id is None and person.mother_id is None
+        ]
+
+
 @dataclass
 class GenealogyBase:
     id: str
@@ -46,7 +56,7 @@ class GenealogyBase:
         return len(self.person_list)
 
 
-class Genealogy(GenealogyBase, GenealogySerialize):
+class Genealogy(GenealogyBase, GenealogySerializeJSON, GenealogyTree):
     pass
 
 
@@ -88,10 +98,12 @@ if __name__ == "__main__":
 
     g = Genealogy("Einstein Family", [p1, p2, p3])
     json_path = g.to_json()
-    tree2 = Genealogy.from_json(json_path)
+    g2 = Genealogy.from_json(json_path)
     print("-" * 40)
     print(g)
     print("-" * 40)
-    print(tree2)
+    print(g2)
+    assert g == g2
+
     print("-" * 40)
-    assert g == tree2
+    print([str(person) for person in g.root_list])
