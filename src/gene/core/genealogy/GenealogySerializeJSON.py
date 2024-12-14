@@ -15,7 +15,7 @@ class GenealogySerializeJSON:
 
     @property
     def json_path(self):
-        return os.path.join("data", "trees", f"{self.id_spaced}.json")
+        return os.path.join("data", "genealogies", f"{self.id_spaced}.json")
 
     def to_dict(self):
         return asdict(self)
