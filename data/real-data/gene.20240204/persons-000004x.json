@@ -1,0 +1,2164 @@
+{
+  "00000400": {
+    "id": "00000400",
+    "name_list": [
+      "Don",
+      "Christopher",
+      "Wijesinghe"
+    ],
+    "last_name": "Kannangara",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "1913",
+    "death_date": "",
+    "details": [
+      "Landowner, politician and former Member of Parliament for Panadura and Bandaragama (https://en.wikipedia.org/wiki/D._C._W._Kannangara)"
+    ],
+    "father_id": "00000404",
+    "mother_id": "00000479",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000401": {
+    "id": "00000401",
+    "name_list": [
+      "Don",
+      "Cornelis",
+      "Wijesinghe"
+    ],
+    "last_name": "Kannangara",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000324"
+    ],
+    "child_id_list": [
+      "00000409",
+      "00000415",
+      "00000403",
+      "00000426",
+      "00000398",
+      "00000414",
+      "00000423",
+      "00000413",
+      "00000405",
+      "00000421",
+      "00000394"
+    ]
+  },
+  "00000402": {
+    "id": "00000402",
+    "name_list": [
+      "Don",
+      "Donald"
+    ],
+    "last_name": "Kannangara",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "1920",
+    "death_date": "",
+    "details": [
+      "Started his career at Bank of Ceylon was later a Founder Director of Sampath Bank, General Manager of People' s Bank and of the Development Finance Corporation of Ceylon (DFCC) (http://www.natlib.lk/pdf/50th_Anniversary.pdf)"
+    ],
+    "father_id": "00000397",
+    "mother_id": "00000281",
+    "spouse_id_list": [
+      "00000499"
+    ],
+    "child_id_list": [
+      "00000432",
+      "00000451",
+      "00000386"
+    ]
+  },
+  "00000403": {
+    "id": "00000403",
+    "name_list": [
+      "Don",
+      "Hendrick",
+      "Wijesinhe",
+      "\"Henry\""
+    ],
+    "last_name": "Kannangara",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Planter in Bandaragama (http://diglib.natlib.lk/bitstream/handle/123456789/16232/1912-OCT-DEC_E_6534_030.pdf)"
+    ],
+    "father_id": "00000401",
+    "mother_id": "00000324",
+    "spouse_id_list": [
+      "00000512"
+    ],
+    "child_id_list": [
+      "00000412",
+      "00000399",
+      "00000419",
+      "00000396",
+      "00000395",
+      "00000418",
+      "00000411",
+      "00000397"
+    ]
+  },
+  "00000404": {
+    "id": "00000404",
+    "name_list": [
+      "Don",
+      "Henry",
+      "Richard",
+      "Wijesinghe"
+    ],
+    "last_name": "Kannangara",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000394",
+    "mother_id": "00000420",
+    "spouse_id_list": [
+      "00000479"
+    ],
+    "child_id_list": [
+      "00000440",
+      "00000446",
+      "00000406",
+      "00000462",
+      "00000400",
+      "00000408",
+      "00000435",
+      "00000425"
+    ]
+  },
+  "00000405": {
+    "id": "00000405",
+    "name_list": [
+      "Don",
+      "Herman",
+      "Wijesinhe"
+    ],
+    "last_name": "Kannangara",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Trader in Bandaragama (http://diglib.natlib.lk/bitstream/handle/123456789/5318/5674%20Sup%20ii.pdf)"
+    ],
+    "father_id": "00000401",
+    "mother_id": "00000324",
+    "spouse_id_list": [
+      "00000422"
+    ],
+    "child_id_list": []
+  },
+  "00000406": {
+    "id": "00000406",
+    "name_list": [
+      "Don",
+      "Lionel",
+      "Wijesinghe"
+    ],
+    "last_name": "Kannangara",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000404",
+    "mother_id": "00000479",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000407": {
+    "id": "00000407",
+    "name_list": [
+      "Don",
+      "Nihal",
+      "Wijesinghe"
+    ],
+    "last_name": "Kannangara",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000463",
+    "mother_id": "00000442",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000408": {
+    "id": "00000408",
+    "name_list": [
+      "Don",
+      "Robert",
+      "Wijesinghe"
+    ],
+    "last_name": "Kannangara",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000404",
+    "mother_id": "00000479",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000409": {
+    "id": "00000409",
+    "name_list": [
+      "Don",
+      "Thomas",
+      "Wijesinhe"
+    ],
+    "last_name": "Kannangara",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "1911",
+    "details": [
+      "Died in 1911 (http://diglib.natlib.lk//handle/123456789/15507)"
+    ],
+    "father_id": "00000401",
+    "mother_id": "00000324",
+    "spouse_id_list": [
+      "00000424"
+    ],
+    "child_id_list": [
+      "00000441",
+      "00000388",
+      "00000434",
+      "00000461",
+      "00000457",
+      "00000385",
+      "00000429",
+      "00000381",
+      "00000390",
+      "00000460",
+      "00000436",
+      "00000391"
+    ]
+  },
+  "00000410": {
+    "id": "00000410",
+    "name_list": [
+      "Don",
+      "Walter",
+      "Wijesinghe"
+    ],
+    "last_name": "Kannangara",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Albert Nelson Marquis Lifetime Achievement Award (https://www.24-7pressrelease.com/press-release/464312/don-walter-kannangara-phd-presented-with-the-albert-nelson-marquis-lifetime-achievement-award-by-marquis-whos-who)",
+      "Physician, specializing in infectious disease",
+      "Served in the United States Army Reserve, Medical corps. for 21 years and retired at the rank of Colonel in 2003 (https://www.24-7pressrelease.com/press-release/464312/don-walter-kannangara-phd-presented-with-the-albert-nelson-marquis-lifetime-achievement-award-by-marquis-whos-who)"
+    ],
+    "father_id": "00000399",
+    "mother_id": "00000185",
+    "spouse_id_list": [
+      "00000380"
+    ],
+    "child_id_list": [
+      "00000449",
+      "00000452"
+    ]
+  },
+  "00000411": {
+    "id": "00000411",
+    "name_list": [
+      "Dona",
+      "Alansa",
+      "Wijesinghe"
+    ],
+    "last_name": "Kannangara",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "1891",
+    "death_date": "1986",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000403",
+    "mother_id": "00000512",
+    "spouse_id_list": [
+      "00000028"
+    ],
+    "child_id_list": [
+      "00000021",
+      "00000018",
+      "00000019"
+    ]
+  },
+  "00000412": {
+    "id": "00000412",
+    "name_list": [
+      "Dona",
+      "Alice",
+      "Clara",
+      "Wijesinghe"
+    ],
+    "last_name": "Kannangara",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000403",
+    "mother_id": "00000512",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000413": {
+    "id": "00000413",
+    "name_list": [
+      "Dona",
+      "Ana",
+      "Wijesinhe"
+    ],
+    "last_name": "Kannangara",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000401",
+    "mother_id": "00000324",
+    "spouse_id_list": [
+      "00000784"
+    ],
+    "child_id_list": [
+      "00000795",
+      "00000799",
+      "00000785"
+    ]
+  },
+  "00000414": {
+    "id": "00000414",
+    "name_list": [
+      "Dona",
+      "Cathrina",
+      "Meraya",
+      "Wijesinhe"
+    ],
+    "last_name": "Kannangara",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000401",
+    "mother_id": "00000324",
+    "spouse_id_list": [
+      "00000651"
+    ],
+    "child_id_list": [
+      "00000645",
+      "00000646",
+      "00000654",
+      "00000641",
+      "00000653"
+    ]
+  },
+  "00000415": {
+    "id": "00000415",
+    "name_list": [
+      "Dona",
+      "Elizabeth",
+      "Wijesinhe"
+    ],
+    "last_name": "Kannangara",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000401",
+    "mother_id": "00000324",
+    "spouse_id_list": [
+      "00000625"
+    ],
+    "child_id_list": [
+      "00000629",
+      "00000626",
+      "00000633"
+    ]
+  },
+  "00000416": {
+    "id": "00000416",
+    "name_list": [
+      "Dona",
+      "Elizabetha"
+    ],
+    "last_name": "Kannangara",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000394",
+    "mother_id": "00000420",
+    "spouse_id_list": [
+      "00000113"
+    ],
+    "child_id_list": [
+      "00000108"
+    ]
+  },
+  "00000417": {
+    "id": "00000417",
+    "name_list": [
+      "Dona",
+      "Helena",
+      "Wijesinghe"
+    ],
+    "last_name": "Kannangara",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000398"
+    ],
+    "child_id_list": [
+      "00000431",
+      "00000427",
+      "00000428",
+      "00000382",
+      "00000456"
+    ]
+  },
+  "00000418": {
+    "id": "00000418",
+    "name_list": [
+      "Dona",
+      "Johanna",
+      "Adline",
+      "Wijesinghe"
+    ],
+    "last_name": "Kannangara",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000403",
+    "mother_id": "00000512",
+    "spouse_id_list": [
+      "00000548"
+    ],
+    "child_id_list": [
+      "00000547",
+      "00000551"
+    ]
+  },
+  "00000419": {
+    "id": "00000419",
+    "name_list": [
+      "Dona",
+      "Johanna",
+      "Matilda",
+      "Wijesinghe"
+    ],
+    "last_name": "Kannangara",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000403",
+    "mother_id": "00000512",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000420": {
+    "id": "00000420",
+    "name_list": [
+      "Dona",
+      "Johanna",
+      "Wijekone"
+    ],
+    "last_name": "Kannangara",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000394"
+    ],
+    "child_id_list": [
+      "00000416",
+      "00000404"
+    ]
+  },
+  "00000421": {
+    "id": "00000421",
+    "name_list": [
+      "Dona",
+      "Johanna",
+      "Wijesinghe"
+    ],
+    "last_name": "Kannangara",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000401",
+    "mother_id": "00000324",
+    "spouse_id_list": [
+      "00000954"
+    ],
+    "child_id_list": [
+      "00000959",
+      "00000955",
+      "00000956"
+    ]
+  },
+  "00000422": {
+    "id": "00000422",
+    "name_list": [
+      "Dona",
+      "Laura",
+      "Wijesinghe"
+    ],
+    "last_name": "Kannangara",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000405"
+    ],
+    "child_id_list": []
+  },
+  "00000423": {
+    "id": "00000423",
+    "name_list": [
+      "Dona",
+      "Maria",
+      "Wijesinhe"
+    ],
+    "last_name": "Kannangara",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000401",
+    "mother_id": "00000324",
+    "spouse_id_list": [
+      "00000679"
+    ],
+    "child_id_list": [
+      "00000682"
+    ]
+  },
+  "00000424": {
+    "id": "00000424",
+    "name_list": [
+      "Dona",
+      "Missy",
+      "Wijesinghe"
+    ],
+    "last_name": "Kannangara",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000409"
+    ],
+    "child_id_list": [
+      "00000441",
+      "00000388",
+      "00000434",
+      "00000461",
+      "00000457",
+      "00000385",
+      "00000429",
+      "00000381",
+      "00000390",
+      "00000460",
+      "00000436",
+      "00000391"
+    ]
+  },
+  "00000425": {
+    "id": "00000425",
+    "name_list": [
+      "Dona",
+      "Nancy",
+      "Wijesinghe"
+    ],
+    "last_name": "Kannangara",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000404",
+    "mother_id": "00000479",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000426": {
+    "id": "00000426",
+    "name_list": [
+      "Dona",
+      "Pavisthina",
+      "Wijesinhe"
+    ],
+    "last_name": "Kannangara",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000401",
+    "mother_id": "00000324",
+    "spouse_id_list": [
+      "00000098"
+    ],
+    "child_id_list": [
+      "00000095",
+      "00000111",
+      "00000101",
+      "00000102",
+      "00000103",
+      "00000116",
+      "00000105",
+      "00000107"
+    ]
+  },
+  "00000427": {
+    "id": "00000427",
+    "name_list": [
+      "Ebert",
+      "Wijesinghe"
+    ],
+    "last_name": "Kannangara",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000398",
+    "mother_id": "00000417",
+    "spouse_id_list": [
+      "00000653"
+    ],
+    "child_id_list": [
+      "00000453"
+    ]
+  },
+  "00000428": {
+    "id": "00000428",
+    "name_list": [
+      "Edwin",
+      "Bartholemews",
+      "Wijesinghe"
+    ],
+    "last_name": "Kannangara",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000398",
+    "mother_id": "00000417",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000429": {
+    "id": "00000429",
+    "name_list": [
+      "Elizabeth",
+      "Wijesinghe"
+    ],
+    "last_name": "Kannangara",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000409",
+    "mother_id": "00000424",
+    "spouse_id_list": [
+      "00000465"
+    ],
+    "child_id_list": [
+      "00000466",
+      "00000464"
+    ]
+  },
+  "00000430": {
+    "id": "00000430",
+    "name_list": [
+      "Geetha",
+      "Theodisia"
+    ],
+    "last_name": "Kannangara",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Deputy Chief Medical Officer CMC",
+      "Died in 2001 (http://archives.sundayobserver.lk/2001/pix/PrintPage.asp?REF=/2011/08/07/main_Obituaries.asp)"
+    ],
+    "father_id": "00000397",
+    "mother_id": "00000281",
+    "spouse_id_list": [
+      "00000266"
+    ],
+    "child_id_list": []
+  },
+  "00000431": {
+    "id": "00000431",
+    "name_list": [
+      "Gilbert",
+      "Wijesinghe"
+    ],
+    "last_name": "Kannangara",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000398",
+    "mother_id": "00000417",
+    "spouse_id_list": [
+      "00000876"
+    ],
+    "child_id_list": [
+      "00000442",
+      "00000444"
+    ]
+  },
+  "00000432": {
+    "id": "00000432",
+    "name_list": [
+      "Hasitha"
+    ],
+    "last_name": "Kannangara",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000402",
+    "mother_id": "00000499",
+    "spouse_id_list": [
+      "00000577"
+    ],
+    "child_id_list": [
+      "00000447",
+      "00000445",
+      "00000433"
+    ]
+  },
+  "00000433": {
+    "id": "00000433",
+    "name_list": [
+      "Hasitha",
+      "II"
+    ],
+    "last_name": "Kannangara",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details",
+      "Accounts Receivable Officer (https://www.linkedin.com/in/hasitha-kannangara-60b51372/)"
+    ],
+    "father_id": "00000432",
+    "mother_id": "00000577",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000434": {
+    "id": "00000434",
+    "name_list": [
+      "Helena",
+      "Regina",
+      "Wijesinghe"
+    ],
+    "last_name": "Kannangara",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000409",
+    "mother_id": "00000424",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000435": {
+    "id": "00000435",
+    "name_list": [
+      "Hency",
+      "WijesingheRuberu"
+    ],
+    "last_name": "Kannangara",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000404",
+    "mother_id": "00000479",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000436": {
+    "id": "00000436",
+    "name_list": [
+      "Hinton",
+      "Albert",
+      "Wijesinghe"
+    ],
+    "last_name": "Kannangara",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000409",
+    "mother_id": "00000424",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000437": {
+    "id": "00000437",
+    "name_list": [
+      "Indra",
+      "WijesingheAthulathmudali"
+    ],
+    "last_name": "Kannangara",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000463",
+    "mother_id": "00000442",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000438": {
+    "id": "00000438",
+    "name_list": [
+      "Ishwari",
+      "Eustasia"
+    ],
+    "last_name": "Kannangara",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Former Chief Librarian - Public Library,\u200b Colombo and former Chairperson,\u200b National Library Services Board,\u200b Sri Lanka",
+      "Died in 2019 (http://www.dailynews.lk/2019/05/15/obituaries/185673/obituaries).",
+      "National Library (http://www.natlib.lk/pdf/50th_Anniversary.pdf)"
+    ],
+    "father_id": "00000397",
+    "mother_id": "00000281",
+    "spouse_id_list": [
+      "00000136"
+    ],
+    "child_id_list": []
+  },
+  "00000439": {
+    "id": "00000439",
+    "name_list": [
+      "Jitvan",
+      "Bodhikumara",
+      "Wijesinghe"
+    ],
+    "last_name": "Kannangara",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "1982",
+    "death_date": "",
+    "details": [
+      "Pilot"
+    ],
+    "father_id": "00000451",
+    "mother_id": "00000359",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000440": {
+    "id": "00000440",
+    "name_list": [
+      "Johanna",
+      "Wijesinghe"
+    ],
+    "last_name": "Kannangara",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000404",
+    "mother_id": "00000479",
+    "spouse_id_list": [
+      "00000358"
+    ],
+    "child_id_list": [
+      "00000357"
+    ]
+  },
+  "00000441": {
+    "id": "00000441",
+    "name_list": [
+      "Johanna",
+      "Wijesinghe"
+    ],
+    "last_name": "Kannangara",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000409",
+    "mother_id": "00000424",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000442": {
+    "id": "00000442",
+    "name_list": [
+      "Leela",
+      "Wijesinghe"
+    ],
+    "last_name": "Kannangara",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000431",
+    "mother_id": "00000876",
+    "spouse_id_list": [
+      "00000463"
+    ],
+    "child_id_list": [
+      "00000454",
+      "00000407",
+      "00000437"
+    ]
+  },
+  "00000443": {
+    "id": "00000443",
+    "name_list": [
+      "Lahiru",
+      "Wijesinghe"
+    ],
+    "last_name": "Kannangara",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Case Manager in New York City, USA (https://www.linkedin.com/in/lahiru-kannangara-49453226)"
+    ],
+    "father_id": "00000458",
+    "mother_id": "00000450",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000444": {
+    "id": "00000444",
+    "name_list": [
+      "Manel",
+      "Wijesinghe"
+    ],
+    "last_name": "Kannangara",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000431",
+    "mother_id": "00000876",
+    "spouse_id_list": [
+      "00000284"
+    ],
+    "child_id_list": []
+  },
+  "00000445": {
+    "id": "00000445",
+    "name_list": [
+      "Melantha"
+    ],
+    "last_name": "Kannangara",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000432",
+    "mother_id": "00000577",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000446": {
+    "id": "00000446",
+    "name_list": [
+      "Meraya",
+      "WijesingheDissanayake"
+    ],
+    "last_name": "Kannangara",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000404",
+    "mother_id": "00000479",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000447": {
+    "id": "00000447",
+    "name_list": [
+      "Mojave",
+      "Damien",
+      "Wijesinghe"
+    ],
+    "last_name": "Kannangara",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Business Owner in Australia (https://abr.business.gov.au/ABN/View?abn=64099261028)"
+    ],
+    "father_id": "00000432",
+    "mother_id": "00000577",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000448": {
+    "id": "00000448",
+    "name_list": [
+      "Rashini",
+      "Rumesha",
+      "Wijesinghe"
+    ],
+    "last_name": "Kannangara",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Podiatrist (https://www.linkedin.com/in/rashini-kannangara-85153b102)"
+    ],
+    "father_id": "00000458",
+    "mother_id": "00000450",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000449": {
+    "id": "00000449",
+    "name_list": [
+      "Nelum"
+    ],
+    "last_name": "Kannangara",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000410",
+    "mother_id": "00000380",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000450": {
+    "id": "00000450",
+    "name_list": [
+      "Padma"
+    ],
+    "last_name": "Kannangara",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Attorney-at-Law"
+    ],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000458"
+    ],
+    "child_id_list": [
+      "00000443",
+      "00000448"
+    ]
+  },
+  "00000451": {
+    "id": "00000451",
+    "name_list": [
+      "Prasanna"
+    ],
+    "last_name": "Kannangara",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Banker"
+    ],
+    "father_id": "00000402",
+    "mother_id": "00000499",
+    "spouse_id_list": [
+      "00000359"
+    ],
+    "child_id_list": [
+      "00000439",
+      "00000384"
+    ]
+  },
+  "00000452": {
+    "id": "00000452",
+    "name_list": [
+      "Saman"
+    ],
+    "last_name": "Kannangara",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Physician (https://www.linkedin.com/in/saman-kannangara-06312715b)"
+    ],
+    "father_id": "00000410",
+    "mother_id": "00000380",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000453": {
+    "id": "00000453",
+    "name_list": [
+      "Sandawathi"
+    ],
+    "last_name": "Kannangara",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000427",
+    "mother_id": "00000653",
+    "spouse_id_list": [
+      "00000510"
+    ],
+    "child_id_list": [
+      "00000507",
+      "00000504"
+    ]
+  },
+  "00000454": {
+    "id": "00000454",
+    "name_list": [
+      "Sathkerthi",
+      "Wijesinghe"
+    ],
+    "last_name": "Kannangara",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000463",
+    "mother_id": "00000442",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000455": {
+    "id": "00000455",
+    "name_list": [
+      "Subhadra",
+      "Beatrice"
+    ],
+    "last_name": "Kannangara",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000397",
+    "mother_id": "00000281",
+    "spouse_id_list": [
+      "00000961"
+    ],
+    "child_id_list": [
+      "00000963",
+      "00000962",
+      "00000960"
+    ]
+  },
+  "00000456": {
+    "id": "00000456",
+    "name_list": [
+      "Tiddy",
+      "Brumpy",
+      "Wijesinghe"
+    ],
+    "last_name": "Kannangara",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000398",
+    "mother_id": "00000417",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000457": {
+    "id": "00000457",
+    "name_list": [
+      "Tillie",
+      "Wijesinghe"
+    ],
+    "last_name": "Kannangara",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000409",
+    "mother_id": "00000424",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000458": {
+    "id": "00000458",
+    "name_list": [
+      "Upali",
+      "Wijesinghe"
+    ],
+    "last_name": "Kannangara",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000399",
+    "mother_id": "00000185",
+    "spouse_id_list": [
+      "00000450"
+    ],
+    "child_id_list": [
+      "00000443",
+      "00000448"
+    ]
+  },
+  "00000459": {
+    "id": "00000459",
+    "name_list": [
+      "Vajira",
+      "Violet"
+    ],
+    "last_name": "Kannangara",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Lecturer, University of Peradeniya"
+    ],
+    "father_id": "00000397",
+    "mother_id": "00000281",
+    "spouse_id_list": [
+      "00000639",
+      "00000131"
+    ],
+    "child_id_list": [
+      "00000638",
+      "00000130"
+    ]
+  },
+  "00000460": {
+    "id": "00000460",
+    "name_list": [
+      "Victor",
+      "Wijesinghe"
+    ],
+    "last_name": "Kannangara",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000409",
+    "mother_id": "00000424",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000461": {
+    "id": "00000461",
+    "name_list": [
+      "Violet",
+      "Meraya",
+      "Wijesinghe"
+    ],
+    "last_name": "Kannangara",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000409",
+    "mother_id": "00000424",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000462": {
+    "id": "00000462",
+    "name_list": [
+      "Violet",
+      "Wijesinghe"
+    ],
+    "last_name": "Kannangara",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000404",
+    "mother_id": "00000479",
+    "spouse_id_list": [
+      "00002639"
+    ],
+    "child_id_list": [
+      "00002640",
+      "00002641"
+    ]
+  },
+  "00000463": {
+    "id": "00000463",
+    "name_list": [
+      "Willie",
+      "Wijesinghe"
+    ],
+    "last_name": "Kannangara",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000442"
+    ],
+    "child_id_list": [
+      "00000454",
+      "00000407",
+      "00000437"
+    ]
+  },
+  "00000464": {
+    "id": "00000464",
+    "name_list": [
+      "Dona",
+      "Hilda",
+      "Clarice"
+    ],
+    "last_name": "Karagala",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000465",
+    "mother_id": "00000429",
+    "spouse_id_list": [
+      "00000941"
+    ],
+    "child_id_list": []
+  },
+  "00000465": {
+    "id": "00000465",
+    "name_list": [
+      "Elizabeths",
+      "Husband"
+    ],
+    "last_name": "Karagala",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000429"
+    ],
+    "child_id_list": [
+      "00000466",
+      "00000464"
+    ]
+  },
+  "00000466": {
+    "id": "00000466",
+    "name_list": [
+      "Richard",
+      "Alston"
+    ],
+    "last_name": "Karagala",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000465",
+    "mother_id": "00000429",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000467": {
+    "id": "00000467",
+    "name_list": [
+      "Mister"
+    ],
+    "last_name": "Katugaha",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00001012"
+    ],
+    "child_id_list": [
+      "00000468",
+      "00000469"
+    ]
+  },
+  "00000468": {
+    "id": "00000468",
+    "name_list": [
+      "Shalini"
+    ],
+    "last_name": "Katugaha",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000467",
+    "mother_id": "00001012",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000469": {
+    "id": "00000469",
+    "name_list": [
+      "Siyanthi"
+    ],
+    "last_name": "Katugaha",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000467",
+    "mother_id": "00001012",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000470": {
+    "id": "00000470",
+    "name_list": [
+      "Edward"
+    ],
+    "last_name": "Keppitiwalana",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000869"
+    ],
+    "child_id_list": [
+      "00000473",
+      "00000472",
+      "00000475",
+      "00000471",
+      "00000474"
+    ]
+  },
+  "00000471": {
+    "id": "00000471",
+    "name_list": [
+      "Mallika"
+    ],
+    "last_name": "Keppitiwalana",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000470",
+    "mother_id": "00000869",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000472": {
+    "id": "00000472",
+    "name_list": [
+      "Ranjani"
+    ],
+    "last_name": "Keppitiwalana",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000470",
+    "mother_id": "00000869",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000473": {
+    "id": "00000473",
+    "name_list": [
+      "Sudharma"
+    ],
+    "last_name": "Keppitiwalana",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000470",
+    "mother_id": "00000869",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000474": {
+    "id": "00000474",
+    "name_list": [
+      "Supriya"
+    ],
+    "last_name": "Keppitiwalana",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000470",
+    "mother_id": "00000869",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000475": {
+    "id": "00000475",
+    "name_list": [
+      "Visaka"
+    ],
+    "last_name": "Keppitiwalana",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000470",
+    "mother_id": "00000869",
+    "spouse_id_list": [
+      "00000553"
+    ],
+    "child_id_list": []
+  },
+  "00000476": {
+    "id": "00000476",
+    "name_list": [
+      "Mister"
+    ],
+    "last_name": "Kithulegoda",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00001015"
+    ],
+    "child_id_list": [
+      "00000888"
+    ]
+  },
+  "00000477": {
+    "id": "00000477",
+    "name_list": [
+      "Cecil"
+    ],
+    "last_name": "Kotalawala",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000725"
+    ],
+    "child_id_list": []
+  },
+  "00000478": {
+    "id": "00000478",
+    "name_list": [
+      "Dickson"
+    ],
+    "last_name": "Kotalawala",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000481",
+    "mother_id": "00000683",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000479": {
+    "id": "00000479",
+    "name_list": [
+      "Dona",
+      "Alice"
+    ],
+    "last_name": "Kotalawala",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000404"
+    ],
+    "child_id_list": [
+      "00000440",
+      "00000446",
+      "00000406",
+      "00000462",
+      "00000400",
+      "00000408",
+      "00000435",
+      "00000425"
+    ]
+  },
+  "00000480": {
+    "id": "00000480",
+    "name_list": [
+      "Douglas"
+    ],
+    "last_name": "Kotalawala",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000481",
+    "mother_id": "00000683",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000481": {
+    "id": "00000481",
+    "name_list": [
+      "George"
+    ],
+    "last_name": "Kotalawala",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000683"
+    ],
+    "child_id_list": [
+      "00000487",
+      "00000485",
+      "00000486",
+      "00000480",
+      "00000478",
+      "00000482"
+    ]
+  },
+  "00000482": {
+    "id": "00000482",
+    "name_list": [
+      "George"
+    ],
+    "last_name": "Kotalawala",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000481",
+    "mother_id": "00000683",
+    "spouse_id_list": [
+      "00000898"
+    ],
+    "child_id_list": [
+      "00000483",
+      "00000484"
+    ]
+  },
+  "00000483": {
+    "id": "00000483",
+    "name_list": [
+      "Indrakanthi"
+    ],
+    "last_name": "Kotalawala",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000482",
+    "mother_id": "00000898",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000484": {
+    "id": "00000484",
+    "name_list": [
+      "Mahasen"
+    ],
+    "last_name": "Kotalawala",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000482",
+    "mother_id": "00000898",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000485": {
+    "id": "00000485",
+    "name_list": [
+      "Malini"
+    ],
+    "last_name": "Kotalawala",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000481",
+    "mother_id": "00000683",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000486": {
+    "id": "00000486",
+    "name_list": [
+      "SitaJayawardena"
+    ],
+    "last_name": "Kotalawala",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000481",
+    "mother_id": "00000683",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000487": {
+    "id": "00000487",
+    "name_list": [
+      "Sulman"
+    ],
+    "last_name": "Kotalawala",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000481",
+    "mother_id": "00000683",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000488": {
+    "id": "00000488",
+    "name_list": [
+      "Francis",
+      "Wijesii",
+      "Wickremasekara"
+    ],
+    "last_name": "Kulathunge",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "CAS Ministry of Education  Director of CARE International. Of Kadawaddduwa  Yatiyana  Matara."
+    ],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000149"
+    ],
+    "child_id_list": [
+      "00000491",
+      "00000490"
+    ]
+  },
+  "00000489": {
+    "id": "00000489",
+    "name_list": [
+      "Heshan"
+    ],
+    "last_name": "Kulathunge",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000491",
+    "mother_id": "00000230",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000490": {
+    "id": "00000490",
+    "name_list": [
+      "Pesidena"
+    ],
+    "last_name": "Kulathunge",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Montessori Directress"
+    ],
+    "father_id": "00000488",
+    "mother_id": "00000149",
+    "spouse_id_list": [
+      "00000066"
+    ],
+    "child_id_list": [
+      "00000067",
+      "00002490",
+      "00000065"
+    ]
+  },
+  "00000491": {
+    "id": "00000491",
+    "name_list": [
+      "Upul"
+    ],
+    "last_name": "Kulathunge",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Director Fuji Graphics and Paper Containers."
+    ],
+    "father_id": "00000488",
+    "mother_id": "00000149",
+    "spouse_id_list": [
+      "00000230"
+    ],
+    "child_id_list": [
+      "00000489"
+    ]
+  },
+  "00000492": {
+    "id": "00000492",
+    "name_list": [
+      "H"
+    ],
+    "last_name": "Kumarage",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000494",
+    "mother_id": "00000811",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000493": {
+    "id": "00000493",
+    "name_list": [
+      "Harithri"
+    ],
+    "last_name": "Kumarage",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000494",
+    "mother_id": "00000811",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000494": {
+    "id": "00000494",
+    "name_list": [
+      "Vijitha"
+    ],
+    "last_name": "Kumarage",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000811"
+    ],
+    "child_id_list": [
+      "00000492",
+      "00000493"
+    ]
+  },
+  "00000495": {
+    "id": "00000495",
+    "name_list": [
+      "Francis"
+    ],
+    "last_name": "Kumarasinghe",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000497",
+    "mother_id": "00000013",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000496": {
+    "id": "00000496",
+    "name_list": [
+      "Grace"
+    ],
+    "last_name": "Kumarasinghe",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000497",
+    "mother_id": "00000013",
+    "spouse_id_list": [
+      "00000584"
+    ],
+    "child_id_list": [
+      "00000585"
+    ]
+  },
+  "00000497": {
+    "id": "00000497",
+    "name_list": [
+      "Mister"
+    ],
+    "last_name": "Kumarasinghe",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000013"
+    ],
+    "child_id_list": [
+      "00000496",
+      "00000498",
+      "00000495"
+    ]
+  },
+  "00000498": {
+    "id": "00000498",
+    "name_list": [
+      "Premaraja"
+    ],
+    "last_name": "Kumarasinghe",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000497",
+    "mother_id": "00000013",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000499": {
+    "id": "00000499",
+    "name_list": [
+      "Imogen",
+      "Sita"
+    ],
+    "last_name": "Kumarasinghe",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "The first woman director of the Department Census and Statistics (http://www.ladiescollege.lk/index.php/16-2/alumni/)"
+    ],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000402"
+    ],
+    "child_id_list": [
+      "00000432",
+      "00000451",
+      "00000386"
+    ]
+  }
+}

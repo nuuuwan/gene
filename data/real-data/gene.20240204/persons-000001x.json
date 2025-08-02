@@ -1,0 +1,2211 @@
+{
+  "00000100": {
+    "id": "00000100",
+    "name_list": [
+      "Don",
+      "Wilson"
+    ],
+    "last_name": "Attygalle",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000108",
+    "mother_id": "00000348",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000101": {
+    "id": "00000101",
+    "name_list": [
+      "Dona",
+      "Betacorus",
+      "Cathrina"
+    ],
+    "last_name": "Attygalle",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000098",
+    "mother_id": "00000426",
+    "spouse_id_list": [
+      "00000821"
+    ],
+    "child_id_list": [
+      "00000835",
+      "00000825",
+      "00000832"
+    ]
+  },
+  "00000102": {
+    "id": "00000102",
+    "name_list": [
+      "Dona",
+      "Celina"
+    ],
+    "last_name": "Attygalle",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000098",
+    "mother_id": "00000426",
+    "spouse_id_list": [
+      "00000668"
+    ],
+    "child_id_list": [
+      "00000667",
+      "00000666",
+      "00000669",
+      "00000670"
+    ]
+  },
+  "00000103": {
+    "id": "00000103",
+    "name_list": [
+      "Dona",
+      "Elizabeth"
+    ],
+    "last_name": "Attygalle",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "See http://www.worldgenweb.org/lkawgw/gen3866.html"
+    ],
+    "father_id": "00000098",
+    "mother_id": "00000426",
+    "spouse_id_list": [
+      "00000844"
+    ],
+    "child_id_list": [
+      "00000846",
+      "00000845",
+      "00000847"
+    ]
+  },
+  "00000104": {
+    "id": "00000104",
+    "name_list": [
+      "Dona",
+      "Elizabeth"
+    ],
+    "last_name": "Attygalle",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000108",
+    "mother_id": "00000348",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000105": {
+    "id": "00000105",
+    "name_list": [
+      "Dona",
+      "Missy"
+    ],
+    "last_name": "Attygalle",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000098",
+    "mother_id": "00000426",
+    "spouse_id_list": [
+      "00000689"
+    ],
+    "child_id_list": [
+      "00000687",
+      "00000686"
+    ]
+  },
+  "00000106": {
+    "id": "00000106",
+    "name_list": [
+      "Eiline",
+      "Gladys",
+      "Perera"
+    ],
+    "last_name": "Attygalle",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000116",
+    "mother_id": "00000860",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000107": {
+    "id": "00000107",
+    "name_list": [
+      "Herman",
+      "Martinus"
+    ],
+    "last_name": "Attygalle",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000098",
+    "mother_id": "00000426",
+    "spouse_id_list": [
+      "00000882"
+    ],
+    "child_id_list": [
+      "00000114",
+      "00000112",
+      "00000093",
+      "00000110"
+    ]
+  },
+  "00000108": {
+    "id": "00000108",
+    "name_list": [
+      "Iglaston"
+    ],
+    "last_name": "Attygalle",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000113",
+    "mother_id": "00000416",
+    "spouse_id_list": [
+      "00000348"
+    ],
+    "child_id_list": [
+      "00000104",
+      "00000099",
+      "00000100"
+    ]
+  },
+  "00000109": {
+    "id": "00000109",
+    "name_list": [
+      "Lakshmi",
+      "ManelDe",
+      "Alwis"
+    ],
+    "last_name": "Attygalle",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000116",
+    "mother_id": "00000860",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000110": {
+    "id": "00000110",
+    "name_list": [
+      "Lewina"
+    ],
+    "last_name": "Attygalle",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000107",
+    "mother_id": "00000882",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000111": {
+    "id": "00000111",
+    "name_list": [
+      "Lewis"
+    ],
+    "last_name": "Attygalle",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000098",
+    "mother_id": "00000426",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000112": {
+    "id": "00000112",
+    "name_list": [
+      "Linton"
+    ],
+    "last_name": "Attygalle",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000107",
+    "mother_id": "00000882",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000113": {
+    "id": "00000113",
+    "name_list": [
+      "Louis"
+    ],
+    "last_name": "Attygalle",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000416"
+    ],
+    "child_id_list": [
+      "00000108"
+    ]
+  },
+  "00000114": {
+    "id": "00000114",
+    "name_list": [
+      "Paul",
+      "Ranjith"
+    ],
+    "last_name": "Attygalle",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000107",
+    "mother_id": "00000882",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000115": {
+    "id": "00000115",
+    "name_list": [
+      "Sita",
+      "Maurene"
+    ],
+    "last_name": "Attygalle",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Obituary(https://www.dailynews.lk/2020/08/12/obituaries/225671/obituaries)"
+    ],
+    "father_id": "00000116",
+    "mother_id": "00000860",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000116": {
+    "id": "00000116",
+    "name_list": [
+      "Wally",
+      "James",
+      "\"Dixon\""
+    ],
+    "last_name": "Attygalle",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000098",
+    "mother_id": "00000426",
+    "spouse_id_list": [
+      "00000860"
+    ],
+    "child_id_list": [
+      "00000092",
+      "00000115",
+      "00000096",
+      "00000091",
+      "00000094",
+      "00000109",
+      "00000106"
+    ]
+  },
+  "00000117": {
+    "id": "00000117",
+    "name_list": [
+      "UNKNOWN"
+    ],
+    "last_name": "Bandarathileke",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000118",
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000944"
+    ],
+    "child_id_list": []
+  },
+  "00000118": {
+    "id": "00000118",
+    "name_list": [
+      "Father"
+    ],
+    "last_name": "Bandarathileke",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [],
+    "child_id_list": [
+      "00000117",
+      "00002497",
+      "00000120"
+    ]
+  },
+  "00000119": {
+    "id": "00000119",
+    "name_list": [
+      "Marisha"
+    ],
+    "last_name": "Bandarathileke",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Entrepreneur (https://lk.linkedin.com/in/marisha-bandaratilaka-72b6606)"
+    ],
+    "father_id": "00000120",
+    "mother_id": "00000383",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000120": {
+    "id": "00000120",
+    "name_list": [
+      "Rohith"
+    ],
+    "last_name": "Bandarathileke",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000118",
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000383"
+    ],
+    "child_id_list": [
+      "00000119"
+    ]
+  },
+  "00000121": {
+    "id": "00000121",
+    "name_list": [
+      "Ranjani"
+    ],
+    "last_name": "Batuwangala",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000069"
+    ],
+    "child_id_list": [
+      "00000082",
+      "00000085"
+    ]
+  },
+  "00000122": {
+    "id": "00000122",
+    "name_list": [
+      "Athanasia",
+      "Stavrou"
+    ],
+    "last_name": "Belezou",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000843"
+    ],
+    "child_id_list": [
+      "00000363"
+    ]
+  },
+  "00000123": {
+    "id": "00000123",
+    "name_list": [
+      "Rohitha"
+    ],
+    "last_name": "Bogallagama",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Politician and former Governer of the Eastern Province, Sri Lanka (https://en.wikipedia.org/wiki/Rohitha_Bogollagama)."
+    ],
+    "father_id": "00002504",
+    "mother_id": "00002505",
+    "spouse_id_list": [
+      "00000671"
+    ],
+    "child_id_list": [
+      "00002506",
+      "00002507"
+    ]
+  },
+  "00000124": {
+    "id": "00000124",
+    "name_list": [
+      "Millicent"
+    ],
+    "last_name": "Bogle",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000125",
+    "mother_id": "00000993",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000125": {
+    "id": "00000125",
+    "name_list": [
+      "Phillip"
+    ],
+    "last_name": "Bogle",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Computer Scientist, BA Darthmouth, MS MIT, Ex Google and Microsoft (https://www.linkedin.com/in/philbo)"
+    ],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000993"
+    ],
+    "child_id_list": [
+      "00000124"
+    ]
+  },
+  "00000126": {
+    "id": "00000126",
+    "name_list": [
+      "Capt",
+      "Alick",
+      "Borrington"
+    ],
+    "last_name": "Bokmeewewa",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Recorded 5 or 6 Children residing in various countries"
+    ],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000313"
+    ],
+    "child_id_list": []
+  },
+  "00000127": {
+    "id": "00000127",
+    "name_list": [
+      "Elan",
+      "Welathanthrige"
+    ],
+    "last_name": "Botheju",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000128",
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000778"
+    ],
+    "child_id_list": [
+      "00000712",
+      "00000731",
+      "00000723",
+      "00000749",
+      "00000728",
+      "00000727",
+      "00000756",
+      "00000718"
+    ]
+  },
+  "00000128": {
+    "id": "00000128",
+    "name_list": [
+      "Welathanthrige",
+      "Charles",
+      "Boteju"
+    ],
+    "last_name": "Botheju",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Of Kotte. His wife's property was at Timbirigasyaya Road  Kirula Road Junction including Pumping Station are and the Sakvithi Lane area and past St.Theresa's Church up to Longdon Place on the Side of the Big Drain. Mahagedara  No. 245  Thimbirigasyaya Road  Colombo 5."
+    ],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [],
+    "child_id_list": [
+      "00000127",
+      "00003706"
+    ]
+  },
+  "00000129": {
+    "id": "00000129",
+    "name_list": [
+      "Lokuliyanage",
+      "Johanna"
+    ],
+    "last_name": "Cabraal",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "1954",
+    "details": [
+      "No Details"
+    ],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000613"
+    ],
+    "child_id_list": [
+      "00000598",
+      "00000607",
+      "00000614"
+    ]
+  },
+  "00000130": {
+    "id": "00000130",
+    "name_list": [
+      "Arjuna",
+      "Bryan"
+    ],
+    "last_name": "Cooke",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "1953",
+    "death_date": "",
+    "details": [
+      "Engineer. See http://www.thepeerage.com/p25159.htm"
+    ],
+    "father_id": "00000131",
+    "mother_id": "00000459",
+    "spouse_id_list": [
+      "00000248"
+    ],
+    "child_id_list": [
+      "00000132"
+    ]
+  },
+  "00000131": {
+    "id": "00000131",
+    "name_list": [
+      "Charles",
+      "Bryan"
+    ],
+    "last_name": "Cooke",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "1925",
+    "death_date": "1975",
+    "details": [
+      "Graduated from Oxford University, Oxford, with a Master of Arts (M.A.) (http://www.thepeerage.com/p25159.htm#c251581.1)"
+    ],
+    "father_id": "00002518",
+    "mother_id": "00002519",
+    "spouse_id_list": [
+      "00000459"
+    ],
+    "child_id_list": [
+      "00000130"
+    ]
+  },
+  "00000132": {
+    "id": "00000132",
+    "name_list": [
+      "Uppalawanna",
+      "Manju",
+      "Edith"
+    ],
+    "last_name": "Cooke",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "1992",
+    "death_date": "",
+    "details": [
+      "Administrative Assistant (https://uk.linkedin.com/in/uppalawanna-cooke-a4a69216b)"
+    ],
+    "father_id": "00000130",
+    "mother_id": "00000248",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000133": {
+    "id": "00000133",
+    "name_list": [
+      "Ariel"
+    ],
+    "last_name": "Corea",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Of Chilaw"
+    ],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000292"
+    ],
+    "child_id_list": []
+  },
+  "00000134": {
+    "id": "00000134",
+    "name_list": [
+      "Asheley"
+    ],
+    "last_name": "Corea",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Proctor",
+      "Of Chilaw"
+    ],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [],
+    "child_id_list": [
+      "00000135"
+    ]
+  },
+  "00000135": {
+    "id": "00000135",
+    "name_list": [
+      "Nirmali"
+    ],
+    "last_name": "Corea",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000134",
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000273"
+    ],
+    "child_id_list": [
+      "00000295",
+      "00000308",
+      "00000274"
+    ]
+  },
+  "00000136": {
+    "id": "00000136",
+    "name_list": [
+      "Charles",
+      "Victor",
+      "Siddhartha",
+      "\"Sid\""
+    ],
+    "last_name": "Corea",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Was a pioneer of Homoeopathy in Sri Lanka, responsible for pursuing the establishment of Homoeopathy in Sri Lanka. He successfully initiated a Bill in the Parliament of Sri Lanka, along with the current Homoeopathy Act which gives official recognition to the Homoeopathic System of medicines in Sri Lanka (http://www.chilawcoreas.com/viewprofiles.php?profid=3)."
+    ],
+    "father_id": "00002508",
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000438"
+    ],
+    "child_id_list": []
+  },
+  "00000137": {
+    "id": "00000137",
+    "name_list": [
+      "Miss"
+    ],
+    "last_name": "De Joodth",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000030"
+    ],
+    "child_id_list": [
+      "00000025",
+      "00000020",
+      "00000035",
+      "00000033",
+      "00000031",
+      "00000037"
+    ]
+  },
+  "00000138": {
+    "id": "00000138",
+    "name_list": [
+      "Sajin"
+    ],
+    "last_name": "De Livera",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Rowed for St. Thomas' College, Mount Lavinia (https://www.sundaytimes.lk/091018/Sports/sp01.html)"
+    ],
+    "father_id": "00000139",
+    "mother_id": "00000772",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000139": {
+    "id": "00000139",
+    "name_list": [
+      "Shanaka",
+      "Ravindra"
+    ],
+    "last_name": "De Livera",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Atorney-at-Law at De Livera Associates (https://deliveraassociates.com/key-person.php)"
+    ],
+    "father_id": "00001540",
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000772"
+    ],
+    "child_id_list": [
+      "00000138",
+      "00000140"
+    ]
+  },
+  "00000140": {
+    "id": "00000140",
+    "name_list": [
+      "Shelan"
+    ],
+    "last_name": "De Livera",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Undergraduate in Computer Science (University of London) (https://lk.linkedin.com/in/shelan-de-livera)"
+    ],
+    "father_id": "00000139",
+    "mother_id": "00000772",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000141": {
+    "id": "00000141",
+    "name_list": [
+      "Amal"
+    ],
+    "last_name": "De Silva",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Has university colours for Rugby Football. Played Cricket for AIT. Junior Cricketter at Ananda College  Colombo."
+    ],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000541"
+    ],
+    "child_id_list": [
+      "00000156",
+      "00000164"
+    ]
+  },
+  "00000142": {
+    "id": "00000142",
+    "name_list": [
+      "Carmel"
+    ],
+    "last_name": "De Silva",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Music & Montesorri Teacher"
+    ],
+    "father_id": "00000159",
+    "mother_id": "00000724",
+    "spouse_id_list": [
+      "00000518"
+    ],
+    "child_id_list": []
+  },
+  "00000143": {
+    "id": "00000143",
+    "name_list": [
+      "Desilen",
+      "ADPT"
+    ],
+    "last_name": "De Silva",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000152",
+    "mother_id": "00000862",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000144": {
+    "id": "00000144",
+    "name_list": [
+      "Donald",
+      "Charles",
+      "Diinysius"
+    ],
+    "last_name": "De Silva",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Gate Mudliyar of Thamankaduwa in the Polonnaruwa District."
+    ],
+    "father_id": "00000146",
+    "mother_id": "00000750",
+    "spouse_id_list": [
+      "00000937"
+    ],
+    "child_id_list": [
+      "00000151"
+    ]
+  },
+  "00000145": {
+    "id": "00000145",
+    "name_list": [
+      "Dorothy",
+      "Maria"
+    ],
+    "last_name": "De Silva",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000025"
+    ],
+    "child_id_list": []
+  },
+  "00000146": {
+    "id": "00000146",
+    "name_list": [
+      "Henry",
+      "Surage"
+    ],
+    "last_name": "De Silva",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Of Kindelpitiya  Bandaragama"
+    ],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000750"
+    ],
+    "child_id_list": [
+      "00000163",
+      "00000150",
+      "00000147",
+      "00000144",
+      "00000148"
+    ]
+  },
+  "00000147": {
+    "id": "00000147",
+    "name_list": [
+      "I"
+    ],
+    "last_name": "De Silva",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000146",
+    "mother_id": "00000750",
+    "spouse_id_list": [
+      "00000529"
+    ],
+    "child_id_list": [
+      "00000530",
+      "00000531",
+      "00000528"
+    ]
+  },
+  "00000148": {
+    "id": "00000148",
+    "name_list": [
+      "II"
+    ],
+    "last_name": "De Silva",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000146",
+    "mother_id": "00000750",
+    "spouse_id_list": [
+      "00000235"
+    ],
+    "child_id_list": [
+      "00000233",
+      "00000234"
+    ]
+  },
+  "00000149": {
+    "id": "00000149",
+    "name_list": [
+      "Iris"
+    ],
+    "last_name": "De Silva",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Principal"
+    ],
+    "father_id": "00000150",
+    "mother_id": "00000818",
+    "spouse_id_list": [
+      "00000488"
+    ],
+    "child_id_list": [
+      "00000491",
+      "00000490"
+    ]
+  },
+  "00000150": {
+    "id": "00000150",
+    "name_list": [
+      "Justin",
+      "Arnold"
+    ],
+    "last_name": "De Silva",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000146",
+    "mother_id": "00000750",
+    "spouse_id_list": [
+      "00000818"
+    ],
+    "child_id_list": [
+      "00000165",
+      "00000166",
+      "00000149"
+    ]
+  },
+  "00000151": {
+    "id": "00000151",
+    "name_list": [
+      "Kathleen",
+      "Kitty"
+    ],
+    "last_name": "De Silva",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Adopted Daughter"
+    ],
+    "father_id": "00000144",
+    "mother_id": "00000937",
+    "spouse_id_list": [
+      "00000714"
+    ],
+    "child_id_list": [
+      "00000711",
+      "00000744",
+      "00000746",
+      "00000725"
+    ]
+  },
+  "00000152": {
+    "id": "00000152",
+    "name_list": [
+      "Kirthi"
+    ],
+    "last_name": "De Silva",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000163",
+    "mother_id": "00000874",
+    "spouse_id_list": [
+      "00000862"
+    ],
+    "child_id_list": [
+      "00000143"
+    ]
+  },
+  "00000153": {
+    "id": "00000153",
+    "name_list": [
+      "Leonard"
+    ],
+    "last_name": "De Silva",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Accountant"
+    ],
+    "father_id": "00000159",
+    "mother_id": "00000724",
+    "spouse_id_list": [
+      "00000883"
+    ],
+    "child_id_list": [
+      "00000162"
+    ]
+  },
+  "00000154": {
+    "id": "00000154",
+    "name_list": [
+      "Mudliyar"
+    ],
+    "last_name": "De Silva",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Of Kahitara."
+    ],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [],
+    "child_id_list": [
+      "00000155"
+    ]
+  },
+  "00000155": {
+    "id": "00000155",
+    "name_list": [
+      "Muriel"
+    ],
+    "last_name": "De Silva",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000154",
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000717"
+    ],
+    "child_id_list": [
+      "00000715",
+      "00000758"
+    ]
+  },
+  "00000156": {
+    "id": "00000156",
+    "name_list": [
+      "Nadeesha"
+    ],
+    "last_name": "De Silva",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Student at Primary School  Singapore"
+    ],
+    "father_id": "00000141",
+    "mother_id": "00000541",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000157": {
+    "id": "00000157",
+    "name_list": [
+      "Nelun"
+    ],
+    "last_name": "De Silva",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000334"
+    ],
+    "child_id_list": [
+      "00000332"
+    ]
+  },
+  "00000158": {
+    "id": "00000158",
+    "name_list": [
+      "Nita"
+    ],
+    "last_name": "De Silva",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000764"
+    ],
+    "child_id_list": [
+      "00000760"
+    ]
+  },
+  "00000159": {
+    "id": "00000159",
+    "name_list": [
+      "Norman"
+    ],
+    "last_name": "De Silva",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Head Guard  Railway"
+    ],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000724"
+    ],
+    "child_id_list": [
+      "00000153",
+      "00000142"
+    ]
+  },
+  "00000160": {
+    "id": "00000160",
+    "name_list": [
+      "Padma"
+    ],
+    "last_name": "De Silva",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "2022",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000163",
+    "mother_id": "00000874",
+    "spouse_id_list": [
+      "00000589"
+    ],
+    "child_id_list": [
+      "00000587",
+      "00000586"
+    ]
+  },
+  "00000161": {
+    "id": "00000161",
+    "name_list": [
+      "Raja"
+    ],
+    "last_name": "De Silva",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Recorded Sons and Daughters"
+    ],
+    "father_id": "00000163",
+    "mother_id": "00000874",
+    "spouse_id_list": [
+      "00000543"
+    ],
+    "child_id_list": []
+  },
+  "00000162": {
+    "id": "00000162",
+    "name_list": [
+      "Rene"
+    ],
+    "last_name": "De Silva",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Lawyer",
+      "In England"
+    ],
+    "father_id": "00000153",
+    "mother_id": "00000883",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000163": {
+    "id": "00000163",
+    "name_list": [
+      "Richard"
+    ],
+    "last_name": "De Silva",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000146",
+    "mother_id": "00000750",
+    "spouse_id_list": [
+      "00000874"
+    ],
+    "child_id_list": [
+      "00000161",
+      "00000152",
+      "00000160"
+    ]
+  },
+  "00000164": {
+    "id": "00000164",
+    "name_list": [
+      "Sanjana"
+    ],
+    "last_name": "De Silva",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Freelance Filmmaker (https://www.linkedin.com/in/sanjana-desilva-177b1941)"
+    ],
+    "father_id": "00000141",
+    "mother_id": "00000541",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000165": {
+    "id": "00000165",
+    "name_list": [
+      "Swarna"
+    ],
+    "last_name": "De Silva",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Teacher"
+    ],
+    "father_id": "00000150",
+    "mother_id": "00000818",
+    "spouse_id_list": [
+      "00000326"
+    ],
+    "child_id_list": [
+      "00000333",
+      "00000337",
+      "00000334"
+    ]
+  },
+  "00000166": {
+    "id": "00000166",
+    "name_list": [
+      "Sylvia"
+    ],
+    "last_name": "De Silva",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Teacher",
+      "Former Vice Principal"
+    ],
+    "father_id": "00000150",
+    "mother_id": "00000818",
+    "spouse_id_list": [
+      "00000936"
+    ],
+    "child_id_list": [
+      "00000940",
+      "00000934",
+      "00000938"
+    ]
+  },
+  "00000167": {
+    "id": "00000167",
+    "name_list": [
+      "Audrey",
+      "Bianca",
+      "\"Bella\""
+    ],
+    "last_name": "De Zilva",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "See http://www.worldgenweb.org/lkawgw/gen3811.html",
+      "Died in 2004 (http://archives.sundayobserver.lk/2004/08/01/obits.html)"
+    ],
+    "father_id": "00002539",
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000198"
+    ],
+    "child_id_list": [
+      "00000197",
+      "00002536",
+      "00002535"
+    ]
+  },
+  "00000168": {
+    "id": "00000168",
+    "name_list": [
+      "Miss"
+    ],
+    "last_name": "Dedigama",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000884"
+    ],
+    "child_id_list": []
+  },
+  "00000169": {
+    "id": "00000169",
+    "name_list": [
+      "Chandrasekara"
+    ],
+    "last_name": "Dharmathilaka",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000598"
+    ],
+    "child_id_list": [
+      "00000171",
+      "00000170"
+    ]
+  },
+  "00000170": {
+    "id": "00000170",
+    "name_list": [
+      "Lithika"
+    ],
+    "last_name": "Dharmathilaka",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000169",
+    "mother_id": "00000598",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000171": {
+    "id": "00000171",
+    "name_list": [
+      "Siddhath",
+      "Dham"
+    ],
+    "last_name": "Dharmathilaka",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Mathematician"
+    ],
+    "father_id": "00000169",
+    "mother_id": "00000598",
+    "spouse_id_list": [],
+    "child_id_list": [
+      "00002525"
+    ]
+  },
+  "00000172": {
+    "id": "00000172",
+    "name_list": [
+      "Kevin"
+    ],
+    "last_name": "Dinwoodie",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Business Analyst (https://www.linkedin.com/in/kevin-dinwoodie-320974)"
+    ],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000770"
+    ],
+    "child_id_list": []
+  },
+  "00000173": {
+    "id": "00000173",
+    "name_list": [
+      "Priyanthi"
+    ],
+    "last_name": "Dissanayake",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00001023"
+    ],
+    "child_id_list": []
+  },
+  "00000174": {
+    "id": "00000174",
+    "name_list": [
+      "JN"
+    ],
+    "last_name": "Dissanayaka",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "PADUKKA"
+    ],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000959"
+    ],
+    "child_id_list": [
+      "00000958"
+    ]
+  },
+  "00000175": {
+    "id": "00000175",
+    "name_list": [
+      "Anil"
+    ],
+    "last_name": "Dissanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Owner of API Group (https://lk.linkedin.com/in/anil-dissanayake-1a48b462)"
+    ],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000180"
+    ],
+    "child_id_list": [
+      "00000177",
+      "00000176"
+    ]
+  },
+  "00000176": {
+    "id": "00000176",
+    "name_list": [
+      "Anishka"
+    ],
+    "last_name": "Dissanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000175",
+    "mother_id": "00000180",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000177": {
+    "id": "00000177",
+    "name_list": [
+      "Athulya"
+    ],
+    "last_name": "Dissanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000175",
+    "mother_id": "00000180",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000178": {
+    "id": "00000178",
+    "name_list": [
+      "Bertha",
+      "Ratnawali"
+    ],
+    "last_name": "Dissanayake",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000009"
+    ],
+    "child_id_list": [
+      "00000004",
+      "00000008"
+    ]
+  },
+  "00000179": {
+    "id": "00000179",
+    "name_list": [
+      "Daphne",
+      "Charlotte",
+      "Elizabeth"
+    ],
+    "last_name": "Dissanayake",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "1923",
+    "death_date": "2006",
+    "details": [
+      "Teacher (BA Lond). Trained Graduate."
+    ],
+    "father_id": "00000181",
+    "mother_id": "00000058",
+    "spouse_id_list": [
+      "00000712"
+    ],
+    "child_id_list": [
+      "00000769",
+      "00000768",
+      "00000754"
+    ]
+  },
+  "00000180": {
+    "id": "00000180",
+    "name_list": [
+      "Piyandani"
+    ],
+    "last_name": "Dissanayake",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "2012",
+    "details": [
+      "Died in 2012 (http://archives.dailynews.lk/2012/02/25/main_Obituaries.asp)"
+    ],
+    "father_id": "00000182",
+    "mother_id": "00001031",
+    "spouse_id_list": [
+      "00000175"
+    ],
+    "child_id_list": [
+      "00000177",
+      "00000176"
+    ]
+  },
+  "00000181": {
+    "id": "00000181",
+    "name_list": [
+      "Robert",
+      "Abraham"
+    ],
+    "last_name": "Dissanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Advocate",
+      "Of Galle"
+    ],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000058"
+    ],
+    "child_id_list": [
+      "00000179",
+      "00000182",
+      "00000183"
+    ]
+  },
+  "00000182": {
+    "id": "00000182",
+    "name_list": [
+      "Verney"
+    ],
+    "last_name": "Dissanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Attorney-at-Law. Advovovate of the Supreme Court. Senator (https://peoplepill.com/people/sarath-wijesinghe)"
+    ],
+    "father_id": "00000181",
+    "mother_id": "00000058",
+    "spouse_id_list": [
+      "00001031"
+    ],
+    "child_id_list": [
+      "00000180"
+    ]
+  },
+  "00000183": {
+    "id": "00000183",
+    "name_list": [
+      "Zeta"
+    ],
+    "last_name": "Dissanayake",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000181",
+    "mother_id": "00000058",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000184": {
+    "id": "00000184",
+    "name_list": [
+      "Rohan"
+    ],
+    "last_name": "Dunuwila",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Civil Law Litigator (https://lk.linkedin.com/in/rohan-dunuwille-26a01723)"
+    ],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000834"
+    ],
+    "child_id_list": []
+  },
+  "00000185": {
+    "id": "00000185",
+    "name_list": [
+      "Charles",
+      "Wife"
+    ],
+    "last_name": "Edussuriya",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000399"
+    ],
+    "child_id_list": [
+      "00000410",
+      "00000458",
+      "00000392"
+    ]
+  },
+  "00000186": {
+    "id": "00000186",
+    "name_list": [
+      "Chandraharan"
+    ],
+    "last_name": "Edwin",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Physician. Director Global Academy of Medical Education and Training (https://uk.linkedin.com/in/edwin-chandraharan-428a51104)"
+    ],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000579"
+    ],
+    "child_id_list": [
+      "00000187"
+    ]
+  },
+  "00000187": {
+    "id": "00000187",
+    "name_list": [
+      "Edwin"
+    ],
+    "last_name": "Edwin",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000186",
+    "mother_id": "00000579",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000188": {
+    "id": "00000188",
+    "name_list": [
+      "UNKNOWN"
+    ],
+    "last_name": "Ekanaike",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000194",
+    "mother_id": "00000892",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000189": {
+    "id": "00000189",
+    "name_list": [
+      "Bertie"
+    ],
+    "last_name": "Ekanaike",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Proctor"
+    ],
+    "father_id": "00000195",
+    "mother_id": null,
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000190": {
+    "id": "00000190",
+    "name_list": [
+      "Clarence",
+      "Hector"
+    ],
+    "last_name": "Ekanaike",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "1920",
+    "death_date": "1986",
+    "details": [
+      "Quantity Surveyor at the Public Works Department, and the State Development and Construction Corporation. (https://www.dailynews.lk/2020/10/13/local/231283/multifaceted-and-hardworking)"
+    ],
+    "father_id": "00000192",
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000286"
+    ],
+    "child_id_list": [
+      "00000194",
+      "00000193"
+    ]
+  },
+  "00000191": {
+    "id": "00000191",
+    "name_list": [
+      "Ellen",
+      "Margaret"
+    ],
+    "last_name": "Ekanaike",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000195",
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000312"
+    ],
+    "child_id_list": [
+      "00000286",
+      "00000313",
+      "00000289",
+      "00000310",
+      "00000282"
+    ]
+  },
+  "00000192": {
+    "id": "00000192",
+    "name_list": [
+      "Hector",
+      "Eugene"
+    ],
+    "last_name": "Ekanaike",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Doctor"
+    ],
+    "father_id": "00000195",
+    "mother_id": null,
+    "spouse_id_list": [],
+    "child_id_list": [
+      "00000190"
+    ]
+  },
+  "00000193": {
+    "id": "00000193",
+    "name_list": [
+      "Jayanthi"
+    ],
+    "last_name": "Ekanaike",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000190",
+    "mother_id": "00000286",
+    "spouse_id_list": [
+      "00001027"
+    ],
+    "child_id_list": [
+      "00001026",
+      "00001025"
+    ]
+  },
+  "00000194": {
+    "id": "00000194",
+    "name_list": [
+      "Nihan"
+    ],
+    "last_name": "Ekanaike",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000190",
+    "mother_id": "00000286",
+    "spouse_id_list": [
+      "00000892"
+    ],
+    "child_id_list": [
+      "00000188"
+    ]
+  },
+  "00000195": {
+    "id": "00000195",
+    "name_list": [
+      "S",
+      "D"
+    ],
+    "last_name": "Ekanaike",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Mudliyar Registrar of Lands  Colombo"
+    ],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [],
+    "child_id_list": [
+      "00000189",
+      "00000192",
+      "00000191"
+    ]
+  },
+  "00000196": {
+    "id": "00000196",
+    "name_list": [
+      "Dona",
+      "Winifred",
+      "Hemawathi"
+    ],
+    "last_name": "Ekanayake",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "2003",
+    "details": [
+      "Died in 2003 (http://archives.dailynews.lk/2003/07/12/obits.html)"
+    ],
+    "father_id": "00002531",
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000505"
+    ],
+    "child_id_list": [
+      "00000502",
+      "00000508",
+      "00000501",
+      "00000509"
+    ]
+  },
+  "00000197": {
+    "id": "00000197",
+    "name_list": [
+      "Leonie"
+    ],
+    "last_name": "Ekanayake",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Banking and Finance Consultant (https://lk.linkedin.com/in/leonie-seneviratne-54730946)"
+    ],
+    "father_id": "00000198",
+    "mother_id": "00000167",
+    "spouse_id_list": [
+      "00000822"
+    ],
+    "child_id_list": [
+      "00000820",
+      "00000834"
+    ]
+  },
+  "00000198": {
+    "id": "00000198",
+    "name_list": [
+      "Vivian",
+      "Henry",
+      "Ainsley"
+    ],
+    "last_name": "Ekanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "2006",
+    "details": [
+      "See http://www.worldgenweb.org/lkawgw/gen1332.html"
+    ],
+    "father_id": "00002547",
+    "mother_id": "00002548",
+    "spouse_id_list": [
+      "00000167"
+    ],
+    "child_id_list": [
+      "00000197",
+      "00002536",
+      "00002535"
+    ]
+  },
+  "00000199": {
+    "id": "00000199",
+    "name_list": [
+      "Naomi"
+    ],
+    "last_name": "Gabbriel",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Studying a school for exceptional students in California"
+    ],
+    "father_id": "00000200",
+    "mother_id": "00000742",
+    "spouse_id_list": [],
+    "child_id_list": []
+  }
+}

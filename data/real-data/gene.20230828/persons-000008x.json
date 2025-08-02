@@ -1,0 +1,2017 @@
+{
+  "00000800": {
+    "id": "00000800",
+    "name_list": [
+      "Lionel",
+      "DLP"
+    ],
+    "last_name": "Senaratne",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "No Details"
+    ],
+    "father_id": "00000786",
+    "mother_id": "00000955",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000801": {
+    "id": "00000801",
+    "name_list": [
+      "Muriel",
+      "Milicent"
+    ],
+    "last_name": "Senaratne",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000795",
+    "mother_id": null,
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000802": {
+    "id": "00000802",
+    "name_list": [
+      "Naladha",
+      "Nandashri"
+    ],
+    "last_name": "Senaratne",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000810",
+    "mother_id": "00000019",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000803": {
+    "id": "00000803",
+    "name_list": [
+      "Nalini",
+      "Lalana",
+      "Ratna"
+    ],
+    "last_name": "Senaratne",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "2001",
+    "details": [],
+    "father_id": "00000799",
+    "mother_id": "00000865",
+    "spouse_id_list": [
+      "00002615"
+    ],
+    "child_id_list": []
+  },
+  "00000804": {
+    "id": "00000804",
+    "name_list": [
+      "Padmini",
+      "Chandra",
+      "Kamala"
+    ],
+    "last_name": "Senaratne",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000799",
+    "mother_id": "00000865",
+    "spouse_id_list": [
+      "00002616"
+    ],
+    "child_id_list": []
+  },
+  "00000805": {
+    "id": "00000805",
+    "name_list": [
+      "Pearl",
+      "Alexadra"
+    ],
+    "last_name": "Senaratne",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000795",
+    "mother_id": null,
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000806": {
+    "id": "00000806",
+    "name_list": [
+      "Percy",
+      "Jelico",
+      "Indrasiri"
+    ],
+    "last_name": "Senaratne",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000790",
+    "mother_id": "00000527",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000807": {
+    "id": "00000807",
+    "name_list": [
+      "RS"
+    ],
+    "last_name": "Senaratne",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000782",
+    "mother_id": "00000863",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000808": {
+    "id": "00000808",
+    "name_list": [
+      "Ravinesh"
+    ],
+    "last_name": "Senaratne",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000809",
+    "mother_id": "00000573",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000809": {
+    "id": "00000809",
+    "name_list": [
+      "Sithendra",
+      "Sidhdhashri"
+    ],
+    "last_name": "Senaratne",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "1954",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000810",
+    "mother_id": "00000019",
+    "spouse_id_list": [
+      "00000573"
+    ],
+    "child_id_list": [
+      "00000791",
+      "00000808"
+    ]
+  },
+  "00000810": {
+    "id": "00000810",
+    "name_list": [
+      "Stanley"
+    ],
+    "last_name": "Senaratne",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000019"
+    ],
+    "child_id_list": [
+      "00000811",
+      "00000802",
+      "00000809",
+      "00000787"
+    ]
+  },
+  "00000811": {
+    "id": "00000811",
+    "name_list": [
+      "Svinitha",
+      "Subhani"
+    ],
+    "last_name": "Senaratne",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000810",
+    "mother_id": "00000019",
+    "spouse_id_list": [
+      "00000494"
+    ],
+    "child_id_list": [
+      "00000492",
+      "00000493"
+    ]
+  },
+  "00000812": {
+    "id": "00000812",
+    "name_list": [
+      "Titus",
+      "Gamini"
+    ],
+    "last_name": "Senaratne",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "1994",
+    "details": [
+      "Justice of the Peace (http://www.worldgenweb.org/lkawgw/gen3840.html)",
+      "Of Kirindiwela (http://www.worldgenweb.org/lkawgw/gen3840.html)"
+    ],
+    "father_id": "00000799",
+    "mother_id": "00000865",
+    "spouse_id_list": [
+      "00002625"
+    ],
+    "child_id_list": []
+  },
+  "00000813": {
+    "id": "00000813",
+    "name_list": [
+      "Wilfred",
+      "Merle"
+    ],
+    "last_name": "Senaratne",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000795",
+    "mother_id": null,
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000814": {
+    "id": "00000814",
+    "name_list": [
+      "Amali",
+      "Michela"
+    ],
+    "last_name": "Seneviratna",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "1979",
+    "death_date": "",
+    "details": [
+      "BSc Hons) Summa Cum Laude) Lynn University Florida  USA)  MBA  Hospitality Management)",
+      "Student Activities Assistant  Lynn University."
+    ],
+    "father_id": "00000817",
+    "mother_id": "00000768",
+    "spouse_id_list": [
+      "00000850"
+    ],
+    "child_id_list": [
+      "00000848",
+      "00000849"
+    ]
+  },
+  "00000815": {
+    "id": "00000815",
+    "name_list": [
+      "Aric"
+    ],
+    "last_name": "Seneviratna",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "2013",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000816",
+    "mother_id": "00000978",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000816": {
+    "id": "00000816",
+    "name_list": [
+      "Ishan",
+      "George",
+      "Rohitha"
+    ],
+    "last_name": "Seneviratna",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "1975",
+    "death_date": "",
+    "details": [
+      "BSc Hons) Summa cum Laude) Hawaii Pacific University  USA) Marketting & International Finance)",
+      "Managing Partner INNERWARE NYC and SHIMMER & STONE  USA"
+    ],
+    "father_id": "00000817",
+    "mother_id": "00000768",
+    "spouse_id_list": [
+      "00000978"
+    ],
+    "child_id_list": [
+      "00000815"
+    ]
+  },
+  "00000817": {
+    "id": "00000817",
+    "name_list": [
+      "William",
+      "George",
+      "Augustus"
+    ],
+    "last_name": "Seneviratna",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "1946",
+    "death_date": "",
+    "details": [
+      "Chartered Accountant.",
+      "FCA  FCAM  U.K.)",
+      "19781987 Head of Finance and Supply ZAMBIA CONSOLIDATED COPPER MINES 1988 Management Accounts Manager of EMIRATES TELECOMMUNICATION COOPERATION  UAE."
+    ],
+    "father_id": "00000251",
+    "mother_id": "00000873",
+    "spouse_id_list": [
+      "00000768"
+    ],
+    "child_id_list": [
+      "00000814",
+      "00000816"
+    ]
+  },
+  "00000818": {
+    "id": "00000818",
+    "name_list": [
+      "Ada",
+      "Isabella",
+      "de",
+      "Silva",
+      "Wijesunddara"
+    ],
+    "last_name": "Seneviratne",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000827",
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000150"
+    ],
+    "child_id_list": [
+      "00000165",
+      "00000166",
+      "00000149"
+    ]
+  },
+  "00000819": {
+    "id": "00000819",
+    "name_list": [
+      "DamayanthiSeneviratne"
+    ],
+    "last_name": "Seneviratne",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000832",
+    "mother_id": "00000957",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000820": {
+    "id": "00000820",
+    "name_list": [
+      "Devinka"
+    ],
+    "last_name": "Seneviratne",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "1984",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000822",
+    "mother_id": "00000197",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000821": {
+    "id": "00000821",
+    "name_list": [
+      "Dona",
+      "Betacoruss",
+      "Husband"
+    ],
+    "last_name": "Seneviratne",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000101"
+    ],
+    "child_id_list": [
+      "00000835",
+      "00000825",
+      "00000832"
+    ]
+  },
+  "00000822": {
+    "id": "00000822",
+    "name_list": [
+      "George",
+      "Nihal",
+      "Harry"
+    ],
+    "last_name": "Seneviratne",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "1950",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000251",
+    "mother_id": "00000873",
+    "spouse_id_list": [
+      "00000197"
+    ],
+    "child_id_list": [
+      "00000820",
+      "00000834"
+    ]
+  },
+  "00000823": {
+    "id": "00000823",
+    "name_list": [
+      "Indramal"
+    ],
+    "last_name": "Seneviratne",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000830",
+    "mother_id": "00000835",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000824": {
+    "id": "00000824",
+    "name_list": [
+      "Lilian"
+    ],
+    "last_name": "Seneviratne",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000826",
+    "mother_id": "00000036",
+    "spouse_id_list": [
+      "00000245"
+    ],
+    "child_id_list": [
+      "00000246",
+      "00000249",
+      "00000243",
+      "00000250"
+    ]
+  },
+  "00000825": {
+    "id": "00000825",
+    "name_list": [
+      "Linton",
+      "Bernard"
+    ],
+    "last_name": "Seneviratne",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000821",
+    "mother_id": "00000101",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000826": {
+    "id": "00000826",
+    "name_list": [
+      "Mister"
+    ],
+    "last_name": "Seneviratne",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000036"
+    ],
+    "child_id_list": [
+      "00000824"
+    ]
+  },
+  "00000827": {
+    "id": "00000827",
+    "name_list": [
+      "Mudliyar"
+    ],
+    "last_name": "Seneviratne",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "BA History) Lond.)",
+      "Of Walawwa  Kandy"
+    ],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [],
+    "child_id_list": [
+      "00000818"
+    ]
+  },
+  "00000828": {
+    "id": "00000828",
+    "name_list": [
+      "PLAnoma"
+    ],
+    "last_name": "Seneviratne",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000830",
+    "mother_id": "00000835",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000829": {
+    "id": "00000829",
+    "name_list": [
+      "PLAsoka"
+    ],
+    "last_name": "Seneviratne",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000830",
+    "mother_id": "00000835",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000830": {
+    "id": "00000830",
+    "name_list": [
+      "PLDA"
+    ],
+    "last_name": "Seneviratne",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000835"
+    ],
+    "child_id_list": [
+      "00000823",
+      "00000831",
+      "00000828",
+      "00000829",
+      "00000833"
+    ]
+  },
+  "00000831": {
+    "id": "00000831",
+    "name_list": [
+      "PLJ"
+    ],
+    "last_name": "Seneviratne",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000830",
+    "mother_id": "00000835",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000832": {
+    "id": "00000832",
+    "name_list": [
+      "Peter",
+      "James"
+    ],
+    "last_name": "Seneviratne",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000821",
+    "mother_id": "00000101",
+    "spouse_id_list": [
+      "00000957"
+    ],
+    "child_id_list": [
+      "00000819"
+    ]
+  },
+  "00000833": {
+    "id": "00000833",
+    "name_list": [
+      "Rukman"
+    ],
+    "last_name": "Seneviratne",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000830",
+    "mother_id": "00000835",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000834": {
+    "id": "00000834",
+    "name_list": [
+      "Sarita"
+    ],
+    "last_name": "Seneviratne",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "1978",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000822",
+    "mother_id": "00000197",
+    "spouse_id_list": [
+      "00000184"
+    ],
+    "child_id_list": []
+  },
+  "00000835": {
+    "id": "00000835",
+    "name_list": [
+      "Walsy"
+    ],
+    "last_name": "Seneviratne",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000821",
+    "mother_id": "00000101",
+    "spouse_id_list": [
+      "00000830"
+    ],
+    "child_id_list": [
+      "00000823",
+      "00000831",
+      "00000828",
+      "00000829",
+      "00000833"
+    ]
+  },
+  "00000836": {
+    "id": "00000836",
+    "name_list": [
+      "Dr",
+      "Savithri"
+    ],
+    "last_name": "Silva",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000988"
+    ],
+    "child_id_list": []
+  },
+  "00000837": {
+    "id": "00000837",
+    "name_list": [
+      "Maxi"
+    ],
+    "last_name": "Silva",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000650"
+    ],
+    "child_id_list": []
+  },
+  "00000838": {
+    "id": "00000838",
+    "name_list": [
+      "Tissa"
+    ],
+    "last_name": "Silva",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000989"
+    ],
+    "child_id_list": []
+  },
+  "00000839": {
+    "id": "00000839",
+    "name_list": [
+      "Daya"
+    ],
+    "last_name": "Siriwardena",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00001024"
+    ],
+    "child_id_list": [
+      "00000842",
+      "00000840",
+      "00000841"
+    ]
+  },
+  "00000840": {
+    "id": "00000840",
+    "name_list": [
+      "Haresh"
+    ],
+    "last_name": "Siriwardena",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000839",
+    "mother_id": "00001024",
+    "spouse_id_list": [
+      "00000881"
+    ],
+    "child_id_list": []
+  },
+  "00000841": {
+    "id": "00000841",
+    "name_list": [
+      "Niluka"
+    ],
+    "last_name": "Siriwardena",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000839",
+    "mother_id": "00001024",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000842": {
+    "id": "00000842",
+    "name_list": [
+      "Sanjeewa"
+    ],
+    "last_name": "Siriwardena",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000839",
+    "mother_id": "00001024",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000843": {
+    "id": "00000843",
+    "name_list": [
+      "Georgios",
+      "Costaninou"
+    ],
+    "last_name": "Stavrou",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000122"
+    ],
+    "child_id_list": [
+      "00000363"
+    ]
+  },
+  "00000844": {
+    "id": "00000844",
+    "name_list": [
+      "Don",
+      "Charles",
+      "Hendrick",
+      "Peris"
+    ],
+    "last_name": "Suriyaperuma",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "1963",
+    "details": [
+      "See http://www.worldgenweb.org/lkawgw/gen3866.html"
+    ],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000103"
+    ],
+    "child_id_list": [
+      "00000846",
+      "00000845",
+      "00000847"
+    ]
+  },
+  "00000845": {
+    "id": "00000845",
+    "name_list": [
+      "Richard",
+      "Peiris"
+    ],
+    "last_name": "Suriyaperuma",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000844",
+    "mother_id": "00000103",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000846": {
+    "id": "00000846",
+    "name_list": [
+      "Seeman",
+      "Peiris"
+    ],
+    "last_name": "Suriyaperuma",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000844",
+    "mother_id": "00000103",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000847": {
+    "id": "00000847",
+    "name_list": [
+      "Sulaman",
+      "Peiris"
+    ],
+    "last_name": "Suriyaperuma",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000844",
+    "mother_id": "00000103",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000848": {
+    "id": "00000848",
+    "name_list": [
+      "Alexa"
+    ],
+    "last_name": "Svien",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "2015",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000850",
+    "mother_id": "00000814",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000849": {
+    "id": "00000849",
+    "name_list": [
+      "Alexzander"
+    ],
+    "last_name": "Svien",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "2013",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000850",
+    "mother_id": "00000814",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000850": {
+    "id": "00000850",
+    "name_list": [
+      "Joseph"
+    ],
+    "last_name": "Svien",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000814"
+    ],
+    "child_id_list": [
+      "00000848",
+      "00000849"
+    ]
+  },
+  "00000851": {
+    "id": "00000851",
+    "name_list": [
+      "Hirun"
+    ],
+    "last_name": "Tennakone",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000853",
+    "mother_id": "00000741",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000852": {
+    "id": "00000852",
+    "name_list": [
+      "Yenuk"
+    ],
+    "last_name": "Tennakone",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000853",
+    "mother_id": "00000741",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000853": {
+    "id": "00000853",
+    "name_list": [
+      "Hirantha"
+    ],
+    "last_name": "Tennakone",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000741"
+    ],
+    "child_id_list": [
+      "00000852",
+      "00000854",
+      "00000851"
+    ]
+  },
+  "00000854": {
+    "id": "00000854",
+    "name_list": [
+      "Raya"
+    ],
+    "last_name": "Tennakone",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000853",
+    "mother_id": "00000741",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000855": {
+    "id": "00000855",
+    "name_list": [
+      "Chrishantie"
+    ],
+    "last_name": "Thalagala",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000298"
+    ],
+    "child_id_list": [
+      "00000311",
+      "00000299"
+    ]
+  },
+  "00000856": {
+    "id": "00000856",
+    "name_list": [
+      "Manuka"
+    ],
+    "last_name": "Trikawalagoda",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "MA  Buddhist Theology)"
+    ],
+    "father_id": "00000857",
+    "mother_id": "00000765",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000857": {
+    "id": "00000857",
+    "name_list": [
+      "Ranjan"
+    ],
+    "last_name": "Trikawalagoda",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Engineer"
+    ],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000765"
+    ],
+    "child_id_list": [
+      "00000858",
+      "00000856"
+    ]
+  },
+  "00000858": {
+    "id": "00000858",
+    "name_list": [
+      "Sanuri"
+    ],
+    "last_name": "Trikawalagoda",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000857",
+    "mother_id": "00000765",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000859": {
+    "id": "00000859",
+    "name_list": [
+      "Akila"
+    ],
+    "last_name": "Unknown",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": null,
+    "mother_id": "00000938",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000860": {
+    "id": "00000860",
+    "name_list": [
+      "Annie",
+      "Elizabeth"
+    ],
+    "last_name": "Unknown",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000116"
+    ],
+    "child_id_list": [
+      "00000092",
+      "00000115",
+      "00000096",
+      "00000091",
+      "00000094",
+      "00000109",
+      "00000106"
+    ]
+  },
+  "00000861": {
+    "id": "00000861",
+    "name_list": [
+      "B"
+    ],
+    "last_name": "Unknown",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000341"
+    ],
+    "child_id_list": [
+      "00000342",
+      "00000344"
+    ]
+  },
+  "00000862": {
+    "id": "00000862",
+    "name_list": [
+      "Carmen"
+    ],
+    "last_name": "Unknown",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Spanish"
+    ],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000152"
+    ],
+    "child_id_list": [
+      "00000143"
+    ]
+  },
+  "00000863": {
+    "id": "00000863",
+    "name_list": [
+      "Chandra"
+    ],
+    "last_name": "Unknown",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000782"
+    ],
+    "child_id_list": [
+      "00000780",
+      "00000792",
+      "00000794",
+      "00000807"
+    ]
+  },
+  "00000864": {
+    "id": "00000864",
+    "name_list": [
+      "Charles",
+      "Wife"
+    ],
+    "last_name": "Unknown",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000095"
+    ],
+    "child_id_list": [
+      "00000097"
+    ]
+  },
+  "00000865": {
+    "id": "00000865",
+    "name_list": [
+      "Charlotte",
+      "Rosalind"
+    ],
+    "last_name": "Amarasekere",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000799"
+    ],
+    "child_id_list": [
+      "00000803",
+      "00002622",
+      "00002627",
+      "00002613",
+      "00000804",
+      "00002620",
+      "00000812",
+      "00000797",
+      "00000798"
+    ]
+  },
+  "00000866": {
+    "id": "00000866",
+    "name_list": [
+      "Christobel"
+    ],
+    "last_name": "Unknown",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00001029"
+    ],
+    "child_id_list": [
+      "00001030",
+      "00003702"
+    ]
+  },
+  "00000867": {
+    "id": "00000867",
+    "name_list": [
+      "D"
+    ],
+    "last_name": "Unknown",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": null,
+    "mother_id": "00000706",
+    "spouse_id_list": [
+      "00000596"
+    ],
+    "child_id_list": []
+  },
+  "00000868": {
+    "id": "00000868",
+    "name_list": [
+      "Daisy"
+    ],
+    "last_name": "Unknown",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000985"
+    ],
+    "child_id_list": [
+      "00000984",
+      "00000990"
+    ]
+  },
+  "00000869": {
+    "id": "00000869",
+    "name_list": [
+      "Daisy"
+    ],
+    "last_name": "Unknown",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000470"
+    ],
+    "child_id_list": [
+      "00000473",
+      "00000472",
+      "00000475",
+      "00000471",
+      "00000474"
+    ]
+  },
+  "00000870": {
+    "id": "00000870",
+    "name_list": [
+      "Danila"
+    ],
+    "last_name": "Unknown",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Italian"
+    ],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000337"
+    ],
+    "child_id_list": [
+      "00000340",
+      "00000330"
+    ]
+  },
+  "00000871": {
+    "id": "00000871",
+    "name_list": [
+      "Denise"
+    ],
+    "last_name": "Unknown",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000617"
+    ],
+    "child_id_list": [
+      "00000616"
+    ]
+  },
+  "00000872": {
+    "id": "00000872",
+    "name_list": [
+      "Doctor"
+    ],
+    "last_name": "Unknown",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000536"
+    ],
+    "child_id_list": []
+  },
+  "00000873": {
+    "id": "00000873",
+    "name_list": [
+      "Doreen"
+    ],
+    "last_name": "Unknown",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000251"
+    ],
+    "child_id_list": [
+      "00000822",
+      "00000817"
+    ]
+  },
+  "00000874": {
+    "id": "00000874",
+    "name_list": [
+      "Dottie"
+    ],
+    "last_name": "Unknown",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000163"
+    ],
+    "child_id_list": [
+      "00000161",
+      "00000152",
+      "00000160"
+    ]
+  },
+  "00000875": {
+    "id": "00000875",
+    "name_list": [
+      "Nileeni"
+    ],
+    "last_name": "Unknown",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Physician"
+    ],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000509"
+    ],
+    "child_id_list": []
+  },
+  "00000876": {
+    "id": "00000876",
+    "name_list": [
+      "Gilberts",
+      "Wife"
+    ],
+    "last_name": "Unknown",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000431"
+    ],
+    "child_id_list": [
+      "00000442",
+      "00000444"
+    ]
+  },
+  "00000877": {
+    "id": "00000877",
+    "name_list": [
+      "Gunawardana"
+    ],
+    "last_name": "Unknown",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "LRSM  LTCL  Piano & Violin)"
+    ],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000280"
+    ],
+    "child_id_list": []
+  },
+  "00000878": {
+    "id": "00000878",
+    "name_list": [
+      "H"
+    ],
+    "last_name": "Unknown",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000355"
+    ],
+    "child_id_list": []
+  },
+  "00000879": {
+    "id": "00000879",
+    "name_list": [
+      "Roshan"
+    ],
+    "last_name": "Gunaratne",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000580"
+    ],
+    "child_id_list": [
+      "00000907"
+    ]
+  },
+  "00000880": {
+    "id": "00000880",
+    "name_list": [
+      "H"
+    ],
+    "last_name": "Unknown",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Businessman No Children"
+    ],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000221"
+    ],
+    "child_id_list": []
+  },
+  "00000881": {
+    "id": "00000881",
+    "name_list": [
+      "Harshini"
+    ],
+    "last_name": "Unknown",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000840"
+    ],
+    "child_id_list": []
+  },
+  "00000882": {
+    "id": "00000882",
+    "name_list": [
+      "Hermans",
+      "Wife"
+    ],
+    "last_name": "Unknown",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000107"
+    ],
+    "child_id_list": [
+      "00000114",
+      "00000112",
+      "00000093",
+      "00000110"
+    ]
+  },
+  "00000883": {
+    "id": "00000883",
+    "name_list": [
+      "Joan"
+    ],
+    "last_name": "Unknown",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "English"
+    ],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000153"
+    ],
+    "child_id_list": [
+      "00000162"
+    ]
+  },
+  "00000884": {
+    "id": "00000884",
+    "name_list": [
+      "Justin"
+    ],
+    "last_name": "Unknown",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Customs Muhundiram.Resided at 'Senaratna Walawwa' Pannipitiya"
+    ],
+    "father_id": null,
+    "mother_id": "00000706",
+    "spouse_id_list": [
+      "00000168"
+    ],
+    "child_id_list": []
+  },
+  "00000885": {
+    "id": "00000885",
+    "name_list": [
+      "Justins",
+      "Wife"
+    ],
+    "last_name": "Unknown",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000734"
+    ],
+    "child_id_list": [
+      "00000722",
+      "00000750",
+      "00000730",
+      "00000704",
+      "00000766",
+      "00000775",
+      "00000703",
+      "00000706"
+    ]
+  },
+  "00000886": {
+    "id": "00000886",
+    "name_list": [
+      "Kamala"
+    ],
+    "last_name": "Unknown",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000050"
+    ],
+    "child_id_list": [
+      "00000046",
+      "00000045",
+      "00000047"
+    ]
+  },
+  "00000887": {
+    "id": "00000887",
+    "name_list": [
+      "Lalini"
+    ],
+    "last_name": "Unknown",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000502"
+    ],
+    "child_id_list": []
+  },
+  "00000888": {
+    "id": "00000888",
+    "name_list": [
+      "Lalith"
+    ],
+    "last_name": "Unknown",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000476",
+    "mother_id": "00001015",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000889": {
+    "id": "00000889",
+    "name_list": [
+      "Linda"
+    ],
+    "last_name": "Unknown",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000225"
+    ],
+    "child_id_list": [
+      "00000223",
+      "00000214",
+      "00000224",
+      "00000222",
+      "00000209",
+      "00000217",
+      "00000226",
+      "00000215"
+    ]
+  },
+  "00000890": {
+    "id": "00000890",
+    "name_list": [
+      "Mala"
+    ],
+    "last_name": "Unknown",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000081"
+    ],
+    "child_id_list": [
+      "00000086",
+      "00000076"
+    ]
+  },
+  "00000891": {
+    "id": "00000891",
+    "name_list": [
+      "Margot"
+    ],
+    "last_name": "Unknown",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000758"
+    ],
+    "child_id_list": [
+      "00000767",
+      "00000751",
+      "00000743"
+    ]
+  },
+  "00000892": {
+    "id": "00000892",
+    "name_list": [
+      "Marie"
+    ],
+    "last_name": "Unknown",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "CAS"
+    ],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000194"
+    ],
+    "child_id_list": [
+      "00000188"
+    ]
+  },
+  "00000893": {
+    "id": "00000893",
+    "name_list": [
+      "Miss"
+    ],
+    "last_name": "Unknown",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000538"
+    ],
+    "child_id_list": []
+  },
+  "00000894": {
+    "id": "00000894",
+    "name_list": [
+      "Leelawathie",
+      "Gunadasa"
+    ],
+    "last_name": "Unknown",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "2004",
+    "details": [
+      "Obituary (http://archives.dailynews.lk/2004/07/23/obits.html)."
+    ],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000078"
+    ],
+    "child_id_list": [
+      "00000081",
+      "00000069",
+      "00000084",
+      "00000083",
+      "00000075",
+      "00000079",
+      "00000087",
+      "00000089"
+    ]
+  },
+  "00000895": {
+    "id": "00000895",
+    "name_list": [
+      "Mother"
+    ],
+    "last_name": "Unknown",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000969"
+    ],
+    "child_id_list": [
+      "00000966",
+      "00000964",
+      "00000976",
+      "00000965",
+      "00000974"
+    ]
+  },
+  "00000896": {
+    "id": "00000896",
+    "name_list": [
+      "Mrs"
+    ],
+    "last_name": "Unknown",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000621"
+    ],
+    "child_id_list": [
+      "00000620"
+    ]
+  },
+  "00000897": {
+    "id": "00000897",
+    "name_list": [
+      "Norma"
+    ],
+    "last_name": "Unknown",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000220"
+    ],
+    "child_id_list": []
+  },
+  "00000898": {
+    "id": "00000898",
+    "name_list": [
+      "Pearl"
+    ],
+    "last_name": "Unknown",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000482"
+    ],
+    "child_id_list": [
+      "00000483",
+      "00000484"
+    ]
+  },
+  "00000899": {
+    "id": "00000899",
+    "name_list": [
+      "Pierce"
+    ],
+    "last_name": "Unknown",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000386"
+    ],
+    "child_id_list": []
+  }
+}

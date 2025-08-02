@@ -1,0 +1,2068 @@
+{
+  "00003700": {
+    "id": "00003700",
+    "name_list": [
+      "UNKNOWN"
+    ],
+    "last_name": "Ekanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000000",
+    "mother_id": "00000000",
+    "spouse_id_list": [
+      "00003693"
+    ],
+    "child_id_list": [
+      "00003701"
+    ]
+  },
+  "00003701": {
+    "id": "00003701",
+    "name_list": [
+      "Raja"
+    ],
+    "last_name": "Ekanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003700",
+    "mother_id": "00003693",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00003702": {
+    "id": "00003702",
+    "name_list": [
+      "Jehan"
+    ],
+    "last_name": "Wirasinha",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00001029",
+    "mother_id": "00000866",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00003703": {
+    "id": "00003703",
+    "name_list": [
+      "Gita"
+    ],
+    "last_name": "Unknown",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000000",
+    "mother_id": "00000000",
+    "spouse_id_list": [
+      "00000319"
+    ],
+    "child_id_list": []
+  },
+  "00003704": {
+    "id": "00003704",
+    "name_list": [
+      "Rudy"
+    ],
+    "last_name": "Wickramatilleka",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000981",
+    "mother_id": "00001002",
+    "spouse_id_list": [
+      "00003705"
+    ],
+    "child_id_list": []
+  },
+  "00003705": {
+    "id": "00003705",
+    "name_list": [
+      "Jackie"
+    ],
+    "last_name": "Unknown",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000000",
+    "mother_id": "00000000",
+    "spouse_id_list": [
+      "00003704"
+    ],
+    "child_id_list": []
+  },
+  "00003706": {
+    "id": "00003706",
+    "name_list": [
+      "Unknown"
+    ],
+    "last_name": "Botheju",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000128",
+    "mother_id": "00000000",
+    "spouse_id_list": [
+      "00003707"
+    ],
+    "child_id_list": [
+      "00003734",
+      "00003735",
+      "00003727",
+      "00003708"
+    ]
+  },
+  "00003707": {
+    "id": "00003707",
+    "name_list": [
+      "M",
+      "S",
+      "Perera",
+      "Samarasinghe"
+    ],
+    "last_name": "Samarasinghe",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Of Borella. Pandita Veda Mudliyar [http://www.worldgenweb.org/lkawgw/gen3809.html]"
+    ],
+    "father_id": "00000000",
+    "mother_id": "00000000",
+    "spouse_id_list": [
+      "00003706"
+    ],
+    "child_id_list": [
+      "00003734",
+      "00003735",
+      "00003727",
+      "00003708"
+    ]
+  },
+  "00003708": {
+    "id": "00003708",
+    "name_list": [
+      "Lilian",
+      "Sarojinee"
+    ],
+    "last_name": "Samarasinghe",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "1923",
+    "death_date": "2007",
+    "details": [
+      "http://archives.dailynews.lk/2007/08/06/main_Obituaries.asp"
+    ],
+    "father_id": "00003707",
+    "mother_id": "00003706",
+    "spouse_id_list": [
+      "00003709"
+    ],
+    "child_id_list": [
+      "00003710",
+      "00003711",
+      "00003712",
+      "00003713"
+    ]
+  },
+  "00003709": {
+    "id": "00003709",
+    "name_list": [
+      "Albert",
+      "E."
+    ],
+    "last_name": "Panditharatne",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000000",
+    "mother_id": "00000000",
+    "spouse_id_list": [
+      "00003708"
+    ],
+    "child_id_list": [
+      "00003710",
+      "00003711",
+      "00003712",
+      "00003713"
+    ]
+  },
+  "00003710": {
+    "id": "00003710",
+    "name_list": [
+      "Indra"
+    ],
+    "last_name": "Panditharatne",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003709",
+    "mother_id": "00003708",
+    "spouse_id_list": [],
+    "child_id_list": [
+      "00003714"
+    ]
+  },
+  "00003711": {
+    "id": "00003711",
+    "name_list": [
+      "Chanaka"
+    ],
+    "last_name": "Panditharatne",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003709",
+    "mother_id": "00003708",
+    "spouse_id_list": [
+      "00003715"
+    ],
+    "child_id_list": []
+  },
+  "00003712": {
+    "id": "00003712",
+    "name_list": [
+      "Shiranee"
+    ],
+    "last_name": "Panditharatne",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "https://www.facebook.com/shiranee.yasaratne"
+    ],
+    "father_id": "00003709",
+    "mother_id": "00003708",
+    "spouse_id_list": [
+      "00003716"
+    ],
+    "child_id_list": [
+      "00003718",
+      "00003719",
+      "00003720"
+    ]
+  },
+  "00003713": {
+    "id": "00003713",
+    "name_list": [
+      "Chandana"
+    ],
+    "last_name": "Panditharatne",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003709",
+    "mother_id": "00003708",
+    "spouse_id_list": [
+      "00003717"
+    ],
+    "child_id_list": []
+  },
+  "00003714": {
+    "id": "00003714",
+    "name_list": [
+      "Lal",
+      "Unknown"
+    ],
+    "last_name": "UNKNOWN",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000000",
+    "mother_id": "00003710",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00003715": {
+    "id": "00003715",
+    "name_list": [
+      ""
+    ],
+    "last_name": "Astrid",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000000",
+    "mother_id": "00000000",
+    "spouse_id_list": [
+      "00003711"
+    ],
+    "child_id_list": []
+  },
+  "00003716": {
+    "id": "00003716",
+    "name_list": [
+      "Yasa"
+    ],
+    "last_name": "Yasaratne",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000000",
+    "mother_id": "00000000",
+    "spouse_id_list": [
+      "00003712"
+    ],
+    "child_id_list": [
+      "00003718",
+      "00003719",
+      "00003720"
+    ]
+  },
+  "00003717": {
+    "id": "00003717",
+    "name_list": [
+      "Nilmini"
+    ],
+    "last_name": "Ratnayake",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003723",
+    "mother_id": "00003724",
+    "spouse_id_list": [
+      "00003713"
+    ],
+    "child_id_list": []
+  },
+  "00003718": {
+    "id": "00003718",
+    "name_list": [
+      "Tiruni"
+    ],
+    "last_name": "Yasaratne",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "https://www.facebook.com/tiruni.yasaratne"
+    ],
+    "father_id": "00003716",
+    "mother_id": "00003712",
+    "spouse_id_list": [
+      "00003721"
+    ],
+    "child_id_list": []
+  },
+  "00003719": {
+    "id": "00003719",
+    "name_list": [
+      "Devaka",
+      "Viraj"
+    ],
+    "last_name": "Yasaratne",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "https://www.facebook.com/viraj.yasaratne"
+    ],
+    "father_id": "00003716",
+    "mother_id": "00003712",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00003720": {
+    "id": "00003720",
+    "name_list": [
+      "Anisha"
+    ],
+    "last_name": "Yasaratne",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "https://www.facebook.com/anisha.yasaratne"
+    ],
+    "father_id": "00003716",
+    "mother_id": "00003712",
+    "spouse_id_list": [
+      "00003722"
+    ],
+    "child_id_list": []
+  },
+  "00003721": {
+    "id": "00003721",
+    "name_list": [
+      "Janek"
+    ],
+    "last_name": "Alles",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000000",
+    "mother_id": "00000000",
+    "spouse_id_list": [
+      "00003718"
+    ],
+    "child_id_list": []
+  },
+  "00003722": {
+    "id": "00003722",
+    "name_list": [
+      "Anushka"
+    ],
+    "last_name": "Rambukwelle",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000000",
+    "mother_id": "00000000",
+    "spouse_id_list": [
+      "00003720"
+    ],
+    "child_id_list": []
+  },
+  "00003723": {
+    "id": "00003723",
+    "name_list": [
+      "Indra",
+      "T",
+      "B",
+      "Ratnayake"
+    ],
+    "last_name": "Ratnayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000000",
+    "mother_id": "00000000",
+    "spouse_id_list": [
+      "00003724"
+    ],
+    "child_id_list": [
+      "00003717",
+      "00003725"
+    ]
+  },
+  "00003724": {
+    "id": "00003724",
+    "name_list": [
+      "Sriya"
+    ],
+    "last_name": "Unknown",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "https://www.sundayobserver.lk/2021/08/22/obituaries/obituaries"
+    ],
+    "father_id": "00000000",
+    "mother_id": "00000000",
+    "spouse_id_list": [
+      "00003723"
+    ],
+    "child_id_list": [
+      "00003717",
+      "00003725"
+    ]
+  },
+  "00003725": {
+    "id": "00003725",
+    "name_list": [
+      "Tivanka"
+    ],
+    "last_name": "Ratnayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003723",
+    "mother_id": "00003724",
+    "spouse_id_list": [
+      "00003726"
+    ],
+    "child_id_list": []
+  },
+  "00003726": {
+    "id": "00003726",
+    "name_list": [
+      "Ishani"
+    ],
+    "last_name": "Unknown",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000000",
+    "mother_id": "00000000",
+    "spouse_id_list": [
+      "00003725"
+    ],
+    "child_id_list": []
+  },
+  "00003727": {
+    "id": "00003727",
+    "name_list": [
+      "G",
+      "V",
+      "P"
+    ],
+    "last_name": "Samarasinghe",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "1917",
+    "death_date": "1986",
+    "details": [
+      "G.V.P. Samarasinghe, CCS was a Sri Lankan civil servant. He was the former Permanent Secretary of Defence and Foreign Affairs and Cabinet Secretary. Educated at the Royal College, Colombo, he is a graduate from the University College, Colombo. (https://en.wikipedia.org/wiki/G.V.P._Samarasinghe)",
+      "https://www.sundaytimes.lk/991010/splus2.html",
+      "G.V.P. Samarasinghe, Permanent Secretary of Defence and Foreign Affairs, who too was a rugby hooker for Royal College and was affectionately called \"Puttus\" (https://www.sundaytimes.lk/991010/splus2.html)",
+      "http://www.worldgenweb.org/lkawgw/gen3809.html"
+    ],
+    "father_id": "00003707",
+    "mother_id": "00003706",
+    "spouse_id_list": [
+      "00003728"
+    ],
+    "child_id_list": [
+      "00003731",
+      "00003732",
+      "00003733"
+    ]
+  },
+  "00003728": {
+    "id": "00003728",
+    "name_list": [
+      "Hilda"
+    ],
+    "last_name": "Abeygunawardene",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003729",
+    "mother_id": "00003730",
+    "spouse_id_list": [
+      "00003727"
+    ],
+    "child_id_list": [
+      "00003731",
+      "00003732",
+      "00003733"
+    ]
+  },
+  "00003729": {
+    "id": "00003729",
+    "name_list": [
+      "E",
+      "Y",
+      "D",
+      "Cadmus",
+      "Abeygunawardene"
+    ],
+    "last_name": "Abeygunawardene",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000000",
+    "mother_id": "00000000",
+    "spouse_id_list": [
+      "00003730"
+    ],
+    "child_id_list": [
+      "00003728"
+    ]
+  },
+  "00003730": {
+    "id": "00003730",
+    "name_list": [
+      "Leelawathie"
+    ],
+    "last_name": "Unknown",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000000",
+    "mother_id": "00000000",
+    "spouse_id_list": [
+      "00003729"
+    ],
+    "child_id_list": [
+      "00003728"
+    ]
+  },
+  "00003731": {
+    "id": "00003731",
+    "name_list": [
+      "Ajith"
+    ],
+    "last_name": "Samarasinghe",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003727",
+    "mother_id": "00003728",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00003732": {
+    "id": "00003732",
+    "name_list": [
+      "Shiromani"
+    ],
+    "last_name": "Samarasinghe",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003727",
+    "mother_id": "00003728",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00003733": {
+    "id": "00003733",
+    "name_list": [
+      "Kamal"
+    ],
+    "last_name": "Samarasinghe",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003727",
+    "mother_id": "00003728",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00003734": {
+    "id": "00003734",
+    "name_list": [
+      "Ruby"
+    ],
+    "last_name": "Samarasinghe",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "1994",
+    "details": [],
+    "father_id": "00003707",
+    "mother_id": "00003706",
+    "spouse_id_list": [
+      "00003736"
+    ],
+    "child_id_list": [
+      "00003737",
+      "00003741"
+    ]
+  },
+  "00003735": {
+    "id": "00003735",
+    "name_list": [
+      "Indranie"
+    ],
+    "last_name": "Samarasinghe",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "1924",
+    "death_date": "2001",
+    "details": [],
+    "father_id": "00003707",
+    "mother_id": "00003706",
+    "spouse_id_list": [
+      "00003738"
+    ],
+    "child_id_list": []
+  },
+  "00003736": {
+    "id": "00003736",
+    "name_list": [
+      "Owen",
+      "Patrick"
+    ],
+    "last_name": "Beneragama",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000000",
+    "mother_id": "00000000",
+    "spouse_id_list": [
+      "00003734"
+    ],
+    "child_id_list": [
+      "00003737",
+      "00003741"
+    ]
+  },
+  "00003737": {
+    "id": "00003737",
+    "name_list": [
+      "Owen",
+      "Joseph"
+    ],
+    "last_name": "Beneragama",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003736",
+    "mother_id": "00003734",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00003738": {
+    "id": "00003738",
+    "name_list": [
+      "Hubert",
+      "Danawardene"
+    ],
+    "last_name": "Herat-Gunaratne",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003739",
+    "mother_id": "00003740",
+    "spouse_id_list": [
+      "00003735"
+    ],
+    "child_id_list": []
+  },
+  "00003739": {
+    "id": "00003739",
+    "name_list": [
+      "H",
+      "M",
+      "G",
+      "Herat"
+    ],
+    "last_name": "Herat-Gunaratne",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000000",
+    "mother_id": "00000000",
+    "spouse_id_list": [
+      "00003740"
+    ],
+    "child_id_list": [
+      "00003738"
+    ]
+  },
+  "00003740": {
+    "id": "00003740",
+    "name_list": [
+      "Johanna",
+      "Cornelia"
+    ],
+    "last_name": "Goonetilleke",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000000",
+    "mother_id": "00000000",
+    "spouse_id_list": [
+      "00003739"
+    ],
+    "child_id_list": [
+      "00003738"
+    ]
+  },
+  "00003741": {
+    "id": "00003741",
+    "name_list": [
+      "Dileeni"
+    ],
+    "last_name": "Beneragama",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "http://www.worldgenweb.org/lkawgw/gen3080b.html"
+    ],
+    "father_id": "00003736",
+    "mother_id": "00003734",
+    "spouse_id_list": [
+      "00003742"
+    ],
+    "child_id_list": []
+  },
+  "00003742": {
+    "id": "00003742",
+    "name_list": [
+      "Ranil"
+    ],
+    "last_name": "De Silva",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000000",
+    "mother_id": "00000000",
+    "spouse_id_list": [
+      "00003741"
+    ],
+    "child_id_list": []
+  },
+  "00003743": {
+    "id": "00003743",
+    "name_list": [
+      "Thomas",
+      "Walter",
+      "(Tommy)"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "1918",
+    "death_date": "",
+    "details": [
+      "Professor Thomas (Tommy) Walter Wikramanayake was born on 9 April 1918 and hailed from Baddegama, a village in the south of Sri Lanka. He received his school education at St. Thomas\u2019 College, Mt. Lavinia and obtained the MBBS degree from the Colombo Medical College. After serving as a medical officer at Matara Hospital, he joined the Faculty of Medicine, Colombo in 1947 as a lecturer in Physiology. He was awarded the PhD from the University of Glasgow, Scotland in 1952.",
+      "He served as a Senior Lecturer and Head, sub-department of Biochemistry, Faculty of Medicine, University of Ceylon, Peradeniya. He was later appointed the founder Professor of Biochemistry and Head of Department of Biochemistry at the University of Peradeniya and held this post from 1972 to 1980. He pioneered the development of Nuclear Medicine in Sri Lanka and was the first Director of the Nuclear Medicine Unit at the University of Peradeniya. In 1980 he moved to Galle where he was actively involved in setting up the Ruhuna Medical Faculty at Karapitiya. He served as the founder Dean and Professor of Biochemistry of the Faculty of Medicine at the University of Ruhuna until his retirement in 1984.",
+      "He also served as Assistant Director and Visiting Professor of Biochemistry at the North Colombo Medical College, Ragama. Professor Wikramanyake was elected Emeritus Professor of Biochemistry at the University of Peradeniya in 1985 and was later conferred the Degree of Doctor of Science (Honoris causa) by the same university and by the University of Ruhuna in 1987. In recognition of his outstanding contribution in the field of Nutrition, the University of Glasgow also honoured him by conferring the Degree of Doctor of Science (Honoris causa). He was elected a Fellow of the National Academy of Sciences of Sri Lanka in 1994.",
+      "He has been a Rockefeller Research Fellow at the University of Wisconsin and University of California, Berkeley and at the Institute of Nutrition for Central America and Panama (INCAP) in Guatemala City, Guatemala. He has also served as a Senior Tropical Medicine Research Fellow at the London School of Hygiene and Tropical Medicine, Visiting Professor at the University of Leningrad, USSR and at the University of West Indies.",
+      "http://www.worldgenweb.org/lkawgw/gen3141.html"
+    ],
+    "father_id": "00003757",
+    "mother_id": "00003758",
+    "spouse_id_list": [
+      "00003747"
+    ],
+    "child_id_list": [
+      "00003744",
+      "00003745",
+      "00003746"
+    ]
+  },
+  "00003744": {
+    "id": "00003744",
+    "name_list": [
+      "Lalith"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003743",
+    "mother_id": "00003747",
+    "spouse_id_list": [
+      "00003751"
+    ],
+    "child_id_list": [
+      "00003748",
+      "00003749",
+      "00003750"
+    ]
+  },
+  "00003745": {
+    "id": "00003745",
+    "name_list": [
+      "Nalin"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003743",
+    "mother_id": "00003747",
+    "spouse_id_list": [
+      "00003752"
+    ],
+    "child_id_list": [
+      "00003753",
+      "00003754"
+    ]
+  },
+  "00003746": {
+    "id": "00003746",
+    "name_list": [
+      "Thilak"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003743",
+    "mother_id": "00003747",
+    "spouse_id_list": [
+      "00003755"
+    ],
+    "child_id_list": [
+      "00003756"
+    ]
+  },
+  "00003747": {
+    "id": "00003747",
+    "name_list": [
+      "Eugene"
+    ],
+    "last_name": "Jayasekera",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000000",
+    "mother_id": "00000000",
+    "spouse_id_list": [
+      "00003743"
+    ],
+    "child_id_list": [
+      "00003744",
+      "00003745",
+      "00003746"
+    ]
+  },
+  "00003748": {
+    "id": "00003748",
+    "name_list": [
+      "Arjun"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003744",
+    "mother_id": "00003751",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00003749": {
+    "id": "00003749",
+    "name_list": [
+      "Anya"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003744",
+    "mother_id": "00003751",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00003750": {
+    "id": "00003750",
+    "name_list": [
+      "Anouk"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003744",
+    "mother_id": "00003751",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00003751": {
+    "id": "00003751",
+    "name_list": [
+      "Carmel"
+    ],
+    "last_name": "Miranda",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000000",
+    "mother_id": "00000000",
+    "spouse_id_list": [
+      "00003744"
+    ],
+    "child_id_list": [
+      "00003748",
+      "00003749",
+      "00003750"
+    ]
+  },
+  "00003752": {
+    "id": "00003752",
+    "name_list": [
+      "Sharmini"
+    ],
+    "last_name": "Perera",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000000",
+    "mother_id": "00000000",
+    "spouse_id_list": [
+      "00003745"
+    ],
+    "child_id_list": [
+      "00003753",
+      "00003754"
+    ]
+  },
+  "00003753": {
+    "id": "00003753",
+    "name_list": [
+      "Sharuka"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003745",
+    "mother_id": "00003752",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00003754": {
+    "id": "00003754",
+    "name_list": [
+      "Avishka"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003745",
+    "mother_id": "00003752",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00003755": {
+    "id": "00003755",
+    "name_list": [
+      "Lisa"
+    ],
+    "last_name": "Saunders",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000000",
+    "mother_id": "00000000",
+    "spouse_id_list": [
+      "00003746"
+    ],
+    "child_id_list": [
+      "00003756"
+    ]
+  },
+  "00003756": {
+    "id": "00003756",
+    "name_list": [
+      "Leila"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003746",
+    "mother_id": "00003755",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00003757": {
+    "id": "00003757",
+    "name_list": [
+      "John",
+      "Henry",
+      "De",
+      "Zielva"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003817",
+    "mother_id": "00003818",
+    "spouse_id_list": [
+      "00003758"
+    ],
+    "child_id_list": [
+      "00003759",
+      "00003760",
+      "00003761",
+      "00003762",
+      "00003763",
+      "00003743"
+    ]
+  },
+  "00003758": {
+    "id": "00003758",
+    "name_list": [
+      "Emily",
+      "Sophia",
+      "De",
+      "Zielva"
+    ],
+    "last_name": "Goonethilleke",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000000",
+    "mother_id": "00000000",
+    "spouse_id_list": [
+      "00003757"
+    ],
+    "child_id_list": [
+      "00003759",
+      "00003760",
+      "00003761",
+      "00003762",
+      "00003763",
+      "00003743"
+    ]
+  },
+  "00003759": {
+    "id": "00003759",
+    "name_list": [
+      "Charles",
+      "Henry"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "\"Father Charlie???\""
+    ],
+    "father_id": "00003757",
+    "mother_id": "00003758",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00003760": {
+    "id": "00003760",
+    "name_list": [
+      "John",
+      "Arthur"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003757",
+    "mother_id": "00003758",
+    "spouse_id_list": [
+      "00003867"
+    ],
+    "child_id_list": [
+      "00003868",
+      "00003872"
+    ]
+  },
+  "00003761": {
+    "id": "00003761",
+    "name_list": [
+      "Bertram",
+      "Mark"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003757",
+    "mother_id": "00003758",
+    "spouse_id_list": [
+      "00003873"
+    ],
+    "child_id_list": [
+      "00003874",
+      "00003879"
+    ]
+  },
+  "00003762": {
+    "id": "00003762",
+    "name_list": [
+      "Reginald"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003757",
+    "mother_id": "00003758",
+    "spouse_id_list": [
+      "00003880"
+    ],
+    "child_id_list": [
+      "00003881",
+      "00003882",
+      "00003885"
+    ]
+  },
+  "00003763": {
+    "id": "00003763",
+    "name_list": [
+      "George"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003757",
+    "mother_id": "00003758",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00003764": {
+    "id": "00003764",
+    "name_list": [
+      "Mahawela",
+      "Mohottala"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "1630",
+    "death_date": "",
+    "details": [
+      "A Minister of Raja Singha II and appointed Mohottala of Mahawelathenne . Mahawela was a village south west of the village of Mahawelatenne. Mahawela in Sabaragamuwa (region) is a town in Sri Lanka.",
+      "Mohottala of Mahawelatenne was a minister under Raja Singha II who rebelled against the king and migrated south from the north of Kollone Korale and settled down near Kitulampitiya Galle, in Dutch territory. One member of the family settled in Kollone. The Portugese had a fort near Balangoda."
+    ],
+    "father_id": "00000000",
+    "mother_id": "00000000",
+    "spouse_id_list": [],
+    "child_id_list": [
+      "00003765",
+      "00003767",
+      "00003769",
+      "00004204",
+      "00004206",
+      "00004208"
+    ]
+  },
+  "00003765": {
+    "id": "00003765",
+    "name_list": [
+      "Mahawelege",
+      "Anika"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003764",
+    "mother_id": "00000000",
+    "spouse_id_list": [
+      "00003766"
+    ],
+    "child_id_list": []
+  },
+  "00003766": {
+    "id": "00003766",
+    "name_list": [
+      "Diogu"
+    ],
+    "last_name": "Amugoda-Runege",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000000",
+    "mother_id": "00000000",
+    "spouse_id_list": [
+      "00003765"
+    ],
+    "child_id_list": []
+  },
+  "00003767": {
+    "id": "00003767",
+    "name_list": [
+      "Joan",
+      "Mahawelege"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003764",
+    "mother_id": "00000000",
+    "spouse_id_list": [
+      "00003768"
+    ],
+    "child_id_list": []
+  },
+  "00003768": {
+    "id": "00003768",
+    "name_list": [
+      "Anika"
+    ],
+    "last_name": "Pallellege",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000000",
+    "mother_id": "00000000",
+    "spouse_id_list": [
+      "00003767"
+    ],
+    "child_id_list": []
+  },
+  "00003769": {
+    "id": "00003769",
+    "name_list": [
+      "Mahawele",
+      "Kanange",
+      "Siekoo"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Mahawela Kankanange Siekoo son of Mohottala took the name Philippoe De Silva at baptism to become a catholic and lived in Kitulampitiya Galle after the death of wife. Siekoo had two sons.",
+      "Information is available in The Dutch Thombu of the village of Kitulampitiya Galle , in the four gravets ( Records : Volume 743 A) was registered in 1745 and in the School Thombu which were the reports of the census carried out by the Dutch which mention the names of the persons residing in different villages, their dates of baptism and age at baptism, the number of coconut trees, aerecanut trees and the possible yield of paddy from the field owned by each individual",
+      "http://www.worldgenweb.org/lkawgw/gen3141.html"
+    ],
+    "father_id": "00003764",
+    "mother_id": "00000000",
+    "spouse_id_list": [
+      "00003770"
+    ],
+    "child_id_list": [
+      "00003771",
+      "00003772"
+    ]
+  },
+  "00003770": {
+    "id": "00003770",
+    "name_list": [
+      "Annona",
+      "(Withanage)"
+    ],
+    "last_name": "Keppettiyagoda",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000000",
+    "mother_id": "00000000",
+    "spouse_id_list": [
+      "00003769"
+    ],
+    "child_id_list": [
+      "00003771",
+      "00003772"
+    ]
+  },
+  "00003771": {
+    "id": "00003771",
+    "name_list": [
+      "Seimon",
+      "de",
+      "Zielva"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003769",
+    "mother_id": "00003770",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00003772": {
+    "id": "00003772",
+    "name_list": [
+      "Mahawelage",
+      "Manikoe",
+      "de",
+      "Zielva"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Manikoe De Zilva son of Siekoo gave the name De Zilva Goonetilleke to his children by h is first marriage and De Zilva Wikramanayake to his son Johannes by the second marriage and they were residence of Kitulampitiya Galle.",
+      "nikoe was the 3rd and later the 2nd school master of the Galle City School of which Pieter Sigrdt was the Principal.",
+      "Manikoe Last Will and Testament DC Galle No. 30614 dated 17th December 1768 available at the national Archieves mentions the fist wife and second wife. This Last Will distributed the property of the two wives.",
+      "http://www.worldgenweb.org/lkawgw/gen3141.html"
+    ],
+    "father_id": "00003769",
+    "mother_id": "00003770",
+    "spouse_id_list": [
+      "00003773",
+      "00003786"
+    ],
+    "child_id_list": [
+      "00003774",
+      "00003775",
+      "00003776",
+      "00003780",
+      "00003782",
+      "00003783",
+      "00003784",
+      "00003788",
+      "00003789"
+    ]
+  },
+  "00003773": {
+    "id": "00003773",
+    "name_list": [
+      "Johatugodellega"
+    ],
+    "last_name": "Doeming",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000000",
+    "mother_id": "00000000",
+    "spouse_id_list": [
+      "00003772"
+    ],
+    "child_id_list": [
+      "00003774",
+      "00003775",
+      "00003776",
+      "00003780",
+      "00003782",
+      "00003783",
+      "00003784"
+    ]
+  },
+  "00003774": {
+    "id": "00003774",
+    "name_list": [
+      "Joan",
+      "de",
+      "Zielwa",
+      "Goonethilleke"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003772",
+    "mother_id": "00003773",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00003775": {
+    "id": "00003775",
+    "name_list": [
+      "Marie",
+      "De",
+      "Zilwa",
+      "Goonethillek"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003772",
+    "mother_id": "00003773",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00003776": {
+    "id": "00003776",
+    "name_list": [
+      "Don",
+      "Siemon",
+      "De",
+      "Zielwa",
+      "Goonethilleke",
+      "Siriwardene"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003772",
+    "mother_id": "00003773",
+    "spouse_id_list": [
+      "00003777"
+    ],
+    "child_id_list": []
+  },
+  "00003777": {
+    "id": "00003777",
+    "name_list": [
+      "Dona",
+      "Maria",
+      "Perera"
+    ],
+    "last_name": "Ekanayake",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003778",
+    "mother_id": "00003779",
+    "spouse_id_list": [
+      "00003776"
+    ],
+    "child_id_list": []
+  },
+  "00003778": {
+    "id": "00003778",
+    "name_list": [
+      "Dionysius",
+      "Perera",
+      "Ekanayake"
+    ],
+    "last_name": "Ekanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000000",
+    "mother_id": "00000000",
+    "spouse_id_list": [
+      "00003779"
+    ],
+    "child_id_list": [
+      "00003777"
+    ]
+  },
+  "00003779": {
+    "id": "00003779",
+    "name_list": [
+      "Anna"
+    ],
+    "last_name": "Siriwardena",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000000",
+    "mother_id": "00000000",
+    "spouse_id_list": [
+      "00003778"
+    ],
+    "child_id_list": [
+      "00003777"
+    ]
+  },
+  "00003780": {
+    "id": "00003780",
+    "name_list": [
+      "Don",
+      "Abraham",
+      "De",
+      "Zielwa",
+      "Goonethilleke"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003772",
+    "mother_id": "00003773",
+    "spouse_id_list": [
+      "00003781"
+    ],
+    "child_id_list": []
+  },
+  "00003781": {
+    "id": "00003781",
+    "name_list": [
+      "Dona",
+      "Gimara"
+    ],
+    "last_name": "Hettiarachchi",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000000",
+    "mother_id": "00000000",
+    "spouse_id_list": [
+      "00003780"
+    ],
+    "child_id_list": []
+  },
+  "00003782": {
+    "id": "00003782",
+    "name_list": [
+      "Don",
+      "Mathys",
+      "De",
+      "Zielwa",
+      "Goonethilleke"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003772",
+    "mother_id": "00003773",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00003783": {
+    "id": "00003783",
+    "name_list": [
+      "Gimara",
+      "De",
+      "Zielwa",
+      "Goonethilleke"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003772",
+    "mother_id": "00003773",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00003784": {
+    "id": "00003784",
+    "name_list": [
+      "Don",
+      "Adrian",
+      "De",
+      "Zielwa",
+      "Goonethileke"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Interpreter of the Superintendent of Galle Korale. Became Attapattu Mudaliyar of Galle Kachcheri"
+    ],
+    "father_id": "00003772",
+    "mother_id": "00003773",
+    "spouse_id_list": [
+      "00003785"
+    ],
+    "child_id_list": []
+  },
+  "00003785": {
+    "id": "00003785",
+    "name_list": [
+      "Tusana"
+    ],
+    "last_name": "Madanayake",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000000",
+    "mother_id": "00000000",
+    "spouse_id_list": [
+      "00003784"
+    ],
+    "child_id_list": []
+  },
+  "00003786": {
+    "id": "00003786",
+    "name_list": [
+      "Christina",
+      "Samarasinghe"
+    ],
+    "last_name": "Kodituwakku",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003787",
+    "mother_id": "00000000",
+    "spouse_id_list": [
+      "00003772"
+    ],
+    "child_id_list": [
+      "00003788",
+      "00003789"
+    ]
+  },
+  "00003787": {
+    "id": "00003787",
+    "name_list": [
+      "Wirasinha",
+      "Kodituwakku"
+    ],
+    "last_name": "Kodituwakku",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000000",
+    "mother_id": "00000000",
+    "spouse_id_list": [],
+    "child_id_list": [
+      "00003786"
+    ]
+  },
+  "00003788": {
+    "id": "00003788",
+    "name_list": [
+      "Mahawelage",
+      "Philipu",
+      "de",
+      "Zielva"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003772",
+    "mother_id": "00003786",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00003789": {
+    "id": "00003789",
+    "name_list": [
+      "Mahawelage",
+      "Don",
+      "Johannes",
+      "de",
+      "Zielva"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003772",
+    "mother_id": "00003786",
+    "spouse_id_list": [
+      "00003790"
+    ],
+    "child_id_list": [
+      "00003791",
+      "00003792",
+      "00003793",
+      "00003794",
+      "00003795",
+      "00003796",
+      "00003797"
+    ]
+  },
+  "00003790": {
+    "id": "00003790",
+    "name_list": [
+      "Ana",
+      "Nona",
+      "Abrahamge"
+    ],
+    "last_name": "Gallege",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000000",
+    "mother_id": "00000000",
+    "spouse_id_list": [
+      "00003789"
+    ],
+    "child_id_list": [
+      "00003791",
+      "00003792",
+      "00003793",
+      "00003794",
+      "00003795",
+      "00003796",
+      "00003797"
+    ]
+  },
+  "00003791": {
+    "id": "00003791",
+    "name_list": [
+      "Mathys",
+      "De",
+      "Zielva"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003789",
+    "mother_id": "00003790",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00003792": {
+    "id": "00003792",
+    "name_list": [
+      "Maria",
+      "de",
+      "Zielva"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003789",
+    "mother_id": "00003790",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00003793": {
+    "id": "00003793",
+    "name_list": [
+      "Adrian",
+      "de",
+      "Zielva"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003789",
+    "mother_id": "00003790",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00003794": {
+    "id": "00003794",
+    "name_list": [
+      "Simon",
+      "de",
+      "Zielva"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003789",
+    "mother_id": "00003790",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00003795": {
+    "id": "00003795",
+    "name_list": [
+      "William",
+      "De",
+      "Zielva"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003789",
+    "mother_id": "00003790",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00003796": {
+    "id": "00003796",
+    "name_list": [
+      "Daniel",
+      "de",
+      "Zielva"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003789",
+    "mother_id": "00003790",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00003797": {
+    "id": "00003797",
+    "name_list": [
+      "Don",
+      "Louis",
+      "de",
+      "Zielva"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003789",
+    "mother_id": "00003790",
+    "spouse_id_list": [
+      "00003798"
+    ],
+    "child_id_list": [
+      "00003799",
+      "00003800",
+      "00003801",
+      "00003802",
+      "00003803",
+      "00003804"
+    ]
+  },
+  "00003798": {
+    "id": "00003798",
+    "name_list": [
+      "Cornelia",
+      "Simange"
+    ],
+    "last_name": "Ranasingha",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000000",
+    "mother_id": "00000000",
+    "spouse_id_list": [
+      "00003797"
+    ],
+    "child_id_list": [
+      "00003799",
+      "00003800",
+      "00003801",
+      "00003802",
+      "00003803",
+      "00003804"
+    ]
+  },
+  "00003799": {
+    "id": "00003799",
+    "name_list": [
+      "Dona",
+      "Clara",
+      "De",
+      "Zielva"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003797",
+    "mother_id": "00003798",
+    "spouse_id_list": [],
+    "child_id_list": []
+  }
+}

@@ -1,0 +1,1987 @@
+{
+  "00003900": {
+    "id": "00003900",
+    "name_list": [
+      "Son"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003896",
+    "mother_id": "00003897",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00003901": {
+    "id": "00003901",
+    "name_list": [
+      "Charles",
+      "Edward"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "1843",
+    "death_date": "1936",
+    "details": [
+      "Affectionately called the \"Grandfather of Richmond College Galle\", Charles Edward Wikramanayake was the Head Teacher of the Boys Anglo Vernacular School (1876 \u2014 1916) , which formed a part of the precursor to the College. He is the earliest known head teacher. When the school ceased to function with the inauguration of the Galle High School and amalgamated he joined the Staff of the Galle High School in 1876 as a Teacher. In addition to his teaching he was the Bursar and continued until his retirement in 1916. He was a Singhala, Pali and Sanskrit Pandit or Scholar and taught the languages to Rev. Darell and Rev. Small, as well as other Missionaries, Theological Students and in the Girl's School. He Lived at \u201cHill House\u201d Kalegana , Galle.",
+      "http://www.worldgenweb.org/lkawgw/gen3141.html"
+    ],
+    "father_id": "00003804",
+    "mother_id": "00003805",
+    "spouse_id_list": [
+      "00003902",
+      "00004100",
+      "00003904"
+    ],
+    "child_id_list": [
+      "00003903",
+      "00004055",
+      "00004056",
+      "00004057"
+    ]
+  },
+  "00003902": {
+    "id": "00003902",
+    "name_list": [
+      "Emilia",
+      "Beth",
+      "Sooriarachchi"
+    ],
+    "last_name": "Amarasekara",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000000",
+    "mother_id": "00000000",
+    "spouse_id_list": [
+      "00003901",
+      "00003903"
+    ],
+    "child_id_list": [
+      "00003903",
+      "00004055",
+      "00004056",
+      "00004057"
+    ]
+  },
+  "00003903": {
+    "id": "00003903",
+    "name_list": [
+      "Edward",
+      "Beauchamp"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "QC"
+    ],
+    "father_id": "00003901",
+    "mother_id": "00003902",
+    "spouse_id_list": [
+      "00003904",
+      "00003902"
+    ],
+    "child_id_list": [
+      "00003905",
+      "00003938",
+      "00003984",
+      "00004002",
+      "00004014",
+      "00004038",
+      "00004042",
+      "00004043"
+    ]
+  },
+  "00003904": {
+    "id": "00003904",
+    "name_list": [
+      "Rosslyn"
+    ],
+    "last_name": "Sumanesekera",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000000",
+    "mother_id": "00000000",
+    "spouse_id_list": [
+      "00003903",
+      "00003901"
+    ],
+    "child_id_list": [
+      "00003905",
+      "00003938",
+      "00003984",
+      "00004002",
+      "00004014",
+      "00004038",
+      "00004042",
+      "00004043"
+    ]
+  },
+  "00003905": {
+    "id": "00003905",
+    "name_list": [
+      "Eric",
+      "Bird"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "QC",
+      "Eric Bird Wikramanayake,\u00a0QC\u00a0was a\u00a0Ceylonese\u00a0statesman\u00a0and\u00a0lawyer. He was the Minister of Justice in the\u00a0cabinet\u00a0of Prime Minister Sir\u00a0John Kotelawala\u00a0and a member of the\u00a0Senate of Ceylon.[1]\u00a0A successful lawyer[2]\u00a0he was appointed as Queen's Counsel\u00a0and had been educated at\u00a0S. Thomas' College, Mount Lavinia. He was founder President of the Wildlife Protection Society of Sri Lanka[4]\u00a0and served on the Board of Governors of\u00a0S. Thomas' College, Mount Lavinia"
+    ],
+    "father_id": "00003903",
+    "mother_id": "00003904",
+    "spouse_id_list": [
+      "00003906"
+    ],
+    "child_id_list": [
+      "00003907",
+      "00003908",
+      "00003928",
+      "00003929",
+      "00003933"
+    ]
+  },
+  "00003906": {
+    "id": "00003906",
+    "name_list": [
+      "Leslie",
+      "Pearl"
+    ],
+    "last_name": "Rodrigo",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000000",
+    "mother_id": "00000000",
+    "spouse_id_list": [
+      "00003905"
+    ],
+    "child_id_list": [
+      "00003907",
+      "00003908",
+      "00003928",
+      "00003929",
+      "00003933"
+    ]
+  },
+  "00003907": {
+    "id": "00003907",
+    "name_list": [
+      "Erica"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003905",
+    "mother_id": "00003906",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00003908": {
+    "id": "00003908",
+    "name_list": [
+      "Elanga"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Elanga joined the Attorneys General Department as a crown counsel in 1958 rising to the post of Solicitor General in 1977. He was the leading crown prosecutor for the Criminal Justice Commission in the 1970s prosecuting the captured and surrendered rebels of the\u00a01971 JVP Insurrection. He left the Attorneys General Department in 1977 and continued in private practice. He appeared in many cases against incumbent governments at a time when intimidation of the judiciary and legal process was not uncommon and is best known for his appearance on behalf Mrs\u00a0Sirimavo Bandaranaike\u00a0and\u00a0Felix Dias Bandaranaike\u00a0before the Special Presidential Commission and later in opposing policies of her daughter\u00a0Chandrika Kumaratunga.\u00a0He also appeared for Industries Minister\u00a0C. V. Gunaratne\u00a0in a defamation case against\u00a0Lalith Athulathmudali. Dayasiri Gunasekera and Mudaliyar pay tribute to his integrity, lack of political bias and impartiality",
+      "http://www.worldgenweb.org/lkawgw/gen3141.html"
+    ],
+    "father_id": "00003905",
+    "mother_id": "00003906",
+    "spouse_id_list": [
+      "00003909"
+    ],
+    "child_id_list": [
+      "00003910",
+      "00003915",
+      "00003920",
+      "00003921",
+      "00003924"
+    ]
+  },
+  "00003909": {
+    "id": "00003909",
+    "name_list": [
+      "Sunethra"
+    ],
+    "last_name": "Ranaraja",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000000",
+    "mother_id": "00000000",
+    "spouse_id_list": [
+      "00003908"
+    ],
+    "child_id_list": [
+      "00003910",
+      "00003915",
+      "00003920",
+      "00003921",
+      "00003924"
+    ]
+  },
+  "00003910": {
+    "id": "00003910",
+    "name_list": [
+      "Arittha",
+      "R"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Arittha admitted to the bar in Sri Lanka in 1980, having attended the Sri Lanka Law College. He later obtained master's degrees in law from the schools of law at the Vrije University, Brussels, Belgium, the University of Georgia, Athens, Georgia, US, and Master of Arts in Law and Diplomacy (MALD) from the Fletcher School of Law and Diplomacy, Tufts University, Massachusetts, US, and a Ph.D in law from the University of Colombo in 2013. He joined the Attorney General\u2019s Department of Sri Lanka as a state counsel. Appointed as the Director General of the Securities and Exchange Commission of Sri Lanka. Chief Executive Officer of the SEC while as Director General of the SEC, he held positions as a member of the Public Enterprises Reform Commission of Sri Lanka and the Sri Lanka Accounting and Auditing Standards Board. In 1997 he resigned from public service and established the law firm\u00a0NITHYA PARTNERS.",
+      "He contributes to national bodies through service in committees for formulating codes on corporate governance established by the Institute of Chartered Accountants of Sri Lanka, the Securities and Exchange Commission of Sri Lanka and committees on corporate law appointed by the Government of Sri Lanka and the National Review Committee, to which he was appointed by the Ministry of Finance to review performance of State owned enterprises. In 2009, He was appointed by the Central Bank of Sri Lanka to a four-member expert panel to advise financial institutions on making use of a stimulus package offered by the Government of Sri Lanka to overcome the effects of the financial crisis."
+    ],
+    "father_id": "00003908",
+    "mother_id": "00003909",
+    "spouse_id_list": [
+      "00003911"
+    ],
+    "child_id_list": [
+      "00003912",
+      "00003913",
+      "00003914"
+    ]
+  },
+  "00003911": {
+    "id": "00003911",
+    "name_list": [
+      "Dinesha"
+    ],
+    "last_name": "De Silva",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000000",
+    "mother_id": "00000000",
+    "spouse_id_list": [
+      "00003910"
+    ],
+    "child_id_list": [
+      "00003912",
+      "00003913",
+      "00003914"
+    ]
+  },
+  "00003912": {
+    "id": "00003912",
+    "name_list": [
+      "Radhika"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003910",
+    "mother_id": "00003911",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00003913": {
+    "id": "00003913",
+    "name_list": [
+      "Dathika"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003910",
+    "mother_id": "00003911",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00003914": {
+    "id": "00003914",
+    "name_list": [
+      "Ariesha"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003910",
+    "mother_id": "00003911",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00003915": {
+    "id": "00003915",
+    "name_list": [
+      "Ananga"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003908",
+    "mother_id": "00003909",
+    "spouse_id_list": [
+      "00003916"
+    ],
+    "child_id_list": [
+      "00003917",
+      "00003918",
+      "00003919"
+    ]
+  },
+  "00003916": {
+    "id": "00003916",
+    "name_list": [
+      "Dream"
+    ],
+    "last_name": "Amerasinghe",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000000",
+    "mother_id": "00000000",
+    "spouse_id_list": [
+      "00003915"
+    ],
+    "child_id_list": [
+      "00003917",
+      "00003918",
+      "00003919"
+    ]
+  },
+  "00003917": {
+    "id": "00003917",
+    "name_list": [
+      "Saheli"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003915",
+    "mother_id": "00003916",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00003918": {
+    "id": "00003918",
+    "name_list": [
+      "Khyati"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003915",
+    "mother_id": "00003916",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00003919": {
+    "id": "00003919",
+    "name_list": [
+      "Akshath"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003915",
+    "mother_id": "00003916",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00003920": {
+    "id": "00003920",
+    "name_list": [
+      "Mihiri"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003908",
+    "mother_id": "00003909",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00003921": {
+    "id": "00003921",
+    "name_list": [
+      "Athula"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003908",
+    "mother_id": "00003909",
+    "spouse_id_list": [
+      "00003922"
+    ],
+    "child_id_list": [
+      "00003923"
+    ]
+  },
+  "00003922": {
+    "id": "00003922",
+    "name_list": [
+      "Tongyu"
+    ],
+    "last_name": "Cao",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000000",
+    "mother_id": "00000000",
+    "spouse_id_list": [
+      "00003921"
+    ],
+    "child_id_list": [
+      "00003923"
+    ]
+  },
+  "00003923": {
+    "id": "00003923",
+    "name_list": [
+      "Anika"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003921",
+    "mother_id": "00003922",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00003924": {
+    "id": "00003924",
+    "name_list": [
+      "Eric",
+      "Devepriya"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003908",
+    "mother_id": "00003909",
+    "spouse_id_list": [
+      "00003925"
+    ],
+    "child_id_list": [
+      "00003926",
+      "00003927"
+    ]
+  },
+  "00003925": {
+    "id": "00003925",
+    "name_list": [
+      "Hishani"
+    ],
+    "last_name": "Unknown",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000000",
+    "mother_id": "00000000",
+    "spouse_id_list": [
+      "00003924"
+    ],
+    "child_id_list": [
+      "00003926",
+      "00003927"
+    ]
+  },
+  "00003926": {
+    "id": "00003926",
+    "name_list": [
+      "Shanelle"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003924",
+    "mother_id": "00003925",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00003927": {
+    "id": "00003927",
+    "name_list": [
+      "Enakshi"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003924",
+    "mother_id": "00003925",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00003928": {
+    "id": "00003928",
+    "name_list": [
+      "Kamala"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003905",
+    "mother_id": "00003906",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00003929": {
+    "id": "00003929",
+    "name_list": [
+      "Balabadra"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003905",
+    "mother_id": "00003906",
+    "spouse_id_list": [
+      "00003930"
+    ],
+    "child_id_list": [
+      "00003931",
+      "00003932"
+    ]
+  },
+  "00003930": {
+    "id": "00003930",
+    "name_list": [
+      "Swarna"
+    ],
+    "last_name": "Unknown",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000000",
+    "mother_id": "00000000",
+    "spouse_id_list": [
+      "00003929"
+    ],
+    "child_id_list": [
+      "00003931",
+      "00003932"
+    ]
+  },
+  "00003931": {
+    "id": "00003931",
+    "name_list": [
+      "Son"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003929",
+    "mother_id": "00003930",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00003932": {
+    "id": "00003932",
+    "name_list": [
+      "Son"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003929",
+    "mother_id": "00003930",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00003933": {
+    "id": "00003933",
+    "name_list": [
+      "Rakitha",
+      "S"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Rakitha Wikramanayake was a Pilot by profession and Air Lanka Chairman",
+      "http://www.worldgenweb.org/lkawgw/gen3141.html"
+    ],
+    "father_id": "00003905",
+    "mother_id": "00003906",
+    "spouse_id_list": [
+      "00003934"
+    ],
+    "child_id_list": [
+      "00003935",
+      "00003937"
+    ]
+  },
+  "00003934": {
+    "id": "00003934",
+    "name_list": [
+      "Sheila"
+    ],
+    "last_name": "Unknown",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000000",
+    "mother_id": "00000000",
+    "spouse_id_list": [
+      "00003933"
+    ],
+    "child_id_list": [
+      "00003935",
+      "00003937"
+    ]
+  },
+  "00003935": {
+    "id": "00003935",
+    "name_list": [
+      "Eric",
+      "Bird",
+      "Jr"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003933",
+    "mother_id": "00003934",
+    "spouse_id_list": [
+      "00003936"
+    ],
+    "child_id_list": []
+  },
+  "00003936": {
+    "id": "00003936",
+    "name_list": [
+      "Teruni"
+    ],
+    "last_name": "Pieris",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000000",
+    "mother_id": "00000000",
+    "spouse_id_list": [
+      "00003935"
+    ],
+    "child_id_list": []
+  },
+  "00003937": {
+    "id": "00003937",
+    "name_list": [
+      "Tamara"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003933",
+    "mother_id": "00003934",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00003938": {
+    "id": "00003938",
+    "name_list": [
+      "Charcles",
+      "Vivian",
+      "Sr"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003903",
+    "mother_id": "00003904",
+    "spouse_id_list": [
+      "00003939"
+    ],
+    "child_id_list": [
+      "00003940",
+      "00003948",
+      "00003968",
+      "00003973",
+      "00003974",
+      "00003983"
+    ]
+  },
+  "00003939": {
+    "id": "00003939",
+    "name_list": [
+      "Irene",
+      "Mary"
+    ],
+    "last_name": "Gooneratne",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000000",
+    "mother_id": "00000000",
+    "spouse_id_list": [
+      "00003938"
+    ],
+    "child_id_list": [
+      "00003940",
+      "00003948",
+      "00003968",
+      "00003973",
+      "00003974",
+      "00003983"
+    ]
+  },
+  "00003940": {
+    "id": "00003940",
+    "name_list": [
+      "Vivien",
+      "Edward"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003938",
+    "mother_id": "00003939",
+    "spouse_id_list": [
+      "00003941"
+    ],
+    "child_id_list": [
+      "00003942",
+      "00003947"
+    ]
+  },
+  "00003941": {
+    "id": "00003941",
+    "name_list": [
+      "Augusta"
+    ],
+    "last_name": "Goonetilleke",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000000",
+    "mother_id": "00000000",
+    "spouse_id_list": [
+      "00003940"
+    ],
+    "child_id_list": [
+      "00003942",
+      "00003947"
+    ]
+  },
+  "00003942": {
+    "id": "00003942",
+    "name_list": [
+      "Mano"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Mano Wikramanayake was Senior Group Director of the\u00a0Capital Maharaja Organisation\u00a0and a Founder Director of the company\u2019s electronic media operations, comprising three TV channels, four radio stations and three TV production houses in Sri Lanka. Trained as a management accountant, Mano helped the Maharaja group to consolidate its pioneering ventures in privately owned radio and TV broadcasting. Media researchers and activists have faulted this liberalisation, which started in the early 1990s. liberated us audiences from the tiresome state monopoly of the airwaves that had lasted"
+    ],
+    "father_id": "00003940",
+    "mother_id": "00003941",
+    "spouse_id_list": [
+      "00003943"
+    ],
+    "child_id_list": [
+      "00003944",
+      "00003945",
+      "00003946"
+    ]
+  },
+  "00003943": {
+    "id": "00003943",
+    "name_list": [
+      "Damaris"
+    ],
+    "last_name": "Schoorman",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000000",
+    "mother_id": "00000000",
+    "spouse_id_list": [
+      "00003942"
+    ],
+    "child_id_list": [
+      "00003944",
+      "00003945",
+      "00003946"
+    ]
+  },
+  "00003944": {
+    "id": "00003944",
+    "name_list": [
+      "Mahen"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003942",
+    "mother_id": "00003943",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00003945": {
+    "id": "00003945",
+    "name_list": [
+      "Marisa"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003942",
+    "mother_id": "00003943",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00003946": {
+    "id": "00003946",
+    "name_list": [
+      "Anushka"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003942",
+    "mother_id": "00003943",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00003947": {
+    "id": "00003947",
+    "name_list": [
+      "Yasmin"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003940",
+    "mother_id": "00003941",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00003948": {
+    "id": "00003948",
+    "name_list": [
+      "Cecil",
+      "Vere"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003938",
+    "mother_id": "00003939",
+    "spouse_id_list": [
+      "00003949"
+    ],
+    "child_id_list": [
+      "00003950",
+      "00003951",
+      "00003952",
+      "00003958",
+      "00003966",
+      "00003967"
+    ]
+  },
+  "00003949": {
+    "id": "00003949",
+    "name_list": [
+      "Mary",
+      "Lilian"
+    ],
+    "last_name": "Anthonisz",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000000",
+    "mother_id": "00000000",
+    "spouse_id_list": [
+      "00003948"
+    ],
+    "child_id_list": [
+      "00003950",
+      "00003951",
+      "00003952",
+      "00003958",
+      "00003966",
+      "00003967"
+    ]
+  },
+  "00003950": {
+    "id": "00003950",
+    "name_list": [
+      "Chuli"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003948",
+    "mother_id": "00003949",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00003951": {
+    "id": "00003951",
+    "name_list": [
+      "Lois"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003948",
+    "mother_id": "00003949",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00003952": {
+    "id": "00003952",
+    "name_list": [
+      "Charles",
+      "Vivian",
+      "Jr"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003948",
+    "mother_id": "00003949",
+    "spouse_id_list": [
+      "00003953"
+    ],
+    "child_id_list": [
+      "00003954",
+      "00003956",
+      "00003957"
+    ]
+  },
+  "00003953": {
+    "id": "00003953",
+    "name_list": [
+      "Kumari"
+    ],
+    "last_name": "Roberts",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000000",
+    "mother_id": "00000000",
+    "spouse_id_list": [
+      "00003952"
+    ],
+    "child_id_list": [
+      "00003954",
+      "00003956",
+      "00003957"
+    ]
+  },
+  "00003954": {
+    "id": "00003954",
+    "name_list": [
+      "Thili"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003952",
+    "mother_id": "00003953",
+    "spouse_id_list": [
+      "00003955"
+    ],
+    "child_id_list": []
+  },
+  "00003955": {
+    "id": "00003955",
+    "name_list": [
+      "Debbie"
+    ],
+    "last_name": "Burkholder",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000000",
+    "mother_id": "00000000",
+    "spouse_id_list": [
+      "00003954"
+    ],
+    "child_id_list": []
+  },
+  "00003956": {
+    "id": "00003956",
+    "name_list": [
+      "Lulu"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003952",
+    "mother_id": "00003953",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00003957": {
+    "id": "00003957",
+    "name_list": [
+      "Penny"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003952",
+    "mother_id": "00003953",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00003958": {
+    "id": "00003958",
+    "name_list": [
+      "Dereck",
+      "Byrd"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003948",
+    "mother_id": "00003949",
+    "spouse_id_list": [
+      "00003959",
+      "00003964"
+    ],
+    "child_id_list": [
+      "00003960",
+      "00003965"
+    ]
+  },
+  "00003959": {
+    "id": "00003959",
+    "name_list": [
+      "Dores"
+    ],
+    "last_name": "Zala",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000000",
+    "mother_id": "00000000",
+    "spouse_id_list": [
+      "00003958"
+    ],
+    "child_id_list": [
+      "00003960"
+    ]
+  },
+  "00003960": {
+    "id": "00003960",
+    "name_list": [
+      "Ricardo",
+      "David"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003958",
+    "mother_id": "00003959",
+    "spouse_id_list": [
+      "00003961"
+    ],
+    "child_id_list": [
+      "00003962",
+      "00003963"
+    ]
+  },
+  "00003961": {
+    "id": "00003961",
+    "name_list": [
+      "Fransisca"
+    ],
+    "last_name": "David",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000000",
+    "mother_id": "00000000",
+    "spouse_id_list": [
+      "00003960"
+    ],
+    "child_id_list": [
+      "00003962",
+      "00003963"
+    ]
+  },
+  "00003962": {
+    "id": "00003962",
+    "name_list": [
+      "Victoria",
+      "David"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003960",
+    "mother_id": "00003961",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00003963": {
+    "id": "00003963",
+    "name_list": [
+      "Raffael",
+      "David"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003960",
+    "mother_id": "00003961",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00003964": {
+    "id": "00003964",
+    "name_list": [
+      "Unknown"
+    ],
+    "last_name": "Bear",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000000",
+    "mother_id": "00000000",
+    "spouse_id_list": [
+      "00003958"
+    ],
+    "child_id_list": [
+      "00003965"
+    ]
+  },
+  "00003965": {
+    "id": "00003965",
+    "name_list": [
+      "Thiebo"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003958",
+    "mother_id": "00003964",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00003966": {
+    "id": "00003966",
+    "name_list": [
+      "Sunetra"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003948",
+    "mother_id": "00003949",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00003967": {
+    "id": "00003967",
+    "name_list": [
+      "Yamellie"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003948",
+    "mother_id": "00003949",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00003968": {
+    "id": "00003968",
+    "name_list": [
+      "Ian"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "As a Senior Solicitor General and Bribery Commissioner, Ian Wikramanayake reached the apex of his career. He could be emotional, and sometimes undiplomatic, which strained his relationship with the late Minister of Justice and Public Administration, Felix Dias Bandaranaike. He would disagree openly on various issues with the Minister; sometimes he was correct, but he lacked diplomacy in dealing with his superiors. He felt he deserved to be Attorney-General, when someone else was appointed. Ian felt he had shown enough dedication, commitment and loyalty to the Government and the Minister."
+    ],
+    "father_id": "00003938",
+    "mother_id": "00003939",
+    "spouse_id_list": [
+      "00003969"
+    ],
+    "child_id_list": [
+      "00003970",
+      "00003971"
+    ]
+  },
+  "00003969": {
+    "id": "00003969",
+    "name_list": [
+      "Bernice"
+    ],
+    "last_name": "Mutukrishna",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000000",
+    "mother_id": "00000000",
+    "spouse_id_list": [
+      "00003968"
+    ],
+    "child_id_list": [
+      "00003970",
+      "00003971"
+    ]
+  },
+  "00003970": {
+    "id": "00003970",
+    "name_list": [
+      "Shyama"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003968",
+    "mother_id": "00003969",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00003971": {
+    "id": "00003971",
+    "name_list": [
+      "Kamal"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003968",
+    "mother_id": "00003969",
+    "spouse_id_list": [
+      "00003972"
+    ],
+    "child_id_list": []
+  },
+  "00003972": {
+    "id": "00003972",
+    "name_list": [
+      "Tara"
+    ],
+    "last_name": "David",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000000",
+    "mother_id": "00000000",
+    "spouse_id_list": [
+      "00003971"
+    ],
+    "child_id_list": []
+  },
+  "00003973": {
+    "id": "00003973",
+    "name_list": [
+      "Rita"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003938",
+    "mother_id": "00003939",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00003974": {
+    "id": "00003974",
+    "name_list": [
+      "Derek",
+      "Dalton"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003938",
+    "mother_id": "00003939",
+    "spouse_id_list": [
+      "00003975",
+      "00003978"
+    ],
+    "child_id_list": [
+      "00003976",
+      "00003977",
+      "00003979"
+    ]
+  },
+  "00003975": {
+    "id": "00003975",
+    "name_list": [
+      "Milda"
+    ],
+    "last_name": "De Silva",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000000",
+    "mother_id": "00000000",
+    "spouse_id_list": [
+      "00003974"
+    ],
+    "child_id_list": [
+      "00003976",
+      "00003977"
+    ]
+  },
+  "00003976": {
+    "id": "00003976",
+    "name_list": [
+      "Malkanthi"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003974",
+    "mother_id": "00003975",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00003977": {
+    "id": "00003977",
+    "name_list": [
+      "Indirs"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003974",
+    "mother_id": "00003975",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00003978": {
+    "id": "00003978",
+    "name_list": [
+      "Saroja"
+    ],
+    "last_name": "Thangarajah",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000000",
+    "mother_id": "00000000",
+    "spouse_id_list": [
+      "00003974"
+    ],
+    "child_id_list": [
+      "00003979"
+    ]
+  },
+  "00003979": {
+    "id": "00003979",
+    "name_list": [
+      "Duleep"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003974",
+    "mother_id": "00003978",
+    "spouse_id_list": [
+      "00003980"
+    ],
+    "child_id_list": [
+      "00003981",
+      "00003982"
+    ]
+  },
+  "00003980": {
+    "id": "00003980",
+    "name_list": [
+      "Andea"
+    ],
+    "last_name": "Jaekel",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000000",
+    "mother_id": "00000000",
+    "spouse_id_list": [
+      "00003979"
+    ],
+    "child_id_list": [
+      "00003981",
+      "00003982"
+    ]
+  },
+  "00003981": {
+    "id": "00003981",
+    "name_list": [
+      "Dillon"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003979",
+    "mother_id": "00003980",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00003982": {
+    "id": "00003982",
+    "name_list": [
+      "Amanda"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003979",
+    "mother_id": "00003980",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00003983": {
+    "id": "00003983",
+    "name_list": [
+      "Marina"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003938",
+    "mother_id": "00003939",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00003984": {
+    "id": "00003984",
+    "name_list": [
+      "Emil",
+      "Guy"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "QC"
+    ],
+    "father_id": "00003903",
+    "mother_id": "00003904",
+    "spouse_id_list": [
+      "00003985"
+    ],
+    "child_id_list": [
+      "00003986",
+      "00003994",
+      "00003996",
+      "00003997"
+    ]
+  },
+  "00003985": {
+    "id": "00003985",
+    "name_list": [
+      "Winifred",
+      "Ethel",
+      "(",
+      "Girly)"
+    ],
+    "last_name": "Edirisinghe",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000000",
+    "mother_id": "00000000",
+    "spouse_id_list": [
+      "00003984"
+    ],
+    "child_id_list": [
+      "00003986",
+      "00003994",
+      "00003996",
+      "00003997"
+    ]
+  },
+  "00003986": {
+    "id": "00003986",
+    "name_list": [
+      "Panini",
+      "Ranjitha"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003984",
+    "mother_id": "00003985",
+    "spouse_id_list": [
+      "00003987"
+    ],
+    "child_id_list": [
+      "00003988",
+      "00003989",
+      "00003990"
+    ]
+  },
+  "00003987": {
+    "id": "00003987",
+    "name_list": [
+      "Amara"
+    ],
+    "last_name": "Weerasooria",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000000",
+    "mother_id": "00000000",
+    "spouse_id_list": [
+      "00003986"
+    ],
+    "child_id_list": [
+      "00003988",
+      "00003989",
+      "00003990"
+    ]
+  },
+  "00003988": {
+    "id": "00003988",
+    "name_list": [
+      "Roshana"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003986",
+    "mother_id": "00003987",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00003989": {
+    "id": "00003989",
+    "name_list": [
+      "Shemara"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003986",
+    "mother_id": "00003987",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00003990": {
+    "id": "00003990",
+    "name_list": [
+      "Priyan",
+      "Romesh"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003986",
+    "mother_id": "00003987",
+    "spouse_id_list": [
+      "00003991"
+    ],
+    "child_id_list": [
+      "00003992",
+      "00003993"
+    ]
+  },
+  "00003991": {
+    "id": "00003991",
+    "name_list": [
+      "Caroline"
+    ],
+    "last_name": "Balley",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000000",
+    "mother_id": "00000000",
+    "spouse_id_list": [
+      "00003990"
+    ],
+    "child_id_list": [
+      "00003992",
+      "00003993"
+    ]
+  },
+  "00003992": {
+    "id": "00003992",
+    "name_list": [
+      "Jasmin"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003990",
+    "mother_id": "00003991",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00003993": {
+    "id": "00003993",
+    "name_list": [
+      "Ravi",
+      "Jackson"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003990",
+    "mother_id": "00003991",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00003994": {
+    "id": "00003994",
+    "name_list": [
+      "Prasanna",
+      "Nimal"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003984",
+    "mother_id": "00003985",
+    "spouse_id_list": [
+      "00003995"
+    ],
+    "child_id_list": []
+  },
+  "00003995": {
+    "id": "00003995",
+    "name_list": [
+      "Anna",
+      "Maria"
+    ],
+    "last_name": "Frezza",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000000",
+    "mother_id": "00000000",
+    "spouse_id_list": [
+      "00003994"
+    ],
+    "child_id_list": []
+  },
+  "00003996": {
+    "id": "00003996",
+    "name_list": [
+      "Dileeni"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003984",
+    "mother_id": "00003985",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00003997": {
+    "id": "00003997",
+    "name_list": [
+      "Prenitha"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003984",
+    "mother_id": "00003985",
+    "spouse_id_list": [
+      "00003998"
+    ],
+    "child_id_list": [
+      "00003999",
+      "00004000",
+      "00004001"
+    ]
+  },
+  "00003998": {
+    "id": "00003998",
+    "name_list": [
+      "Margeret"
+    ],
+    "last_name": "Chemello",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000000",
+    "mother_id": "00000000",
+    "spouse_id_list": [
+      "00003997"
+    ],
+    "child_id_list": [
+      "00003999",
+      "00004000",
+      "00004001"
+    ]
+  },
+  "00003999": {
+    "id": "00003999",
+    "name_list": [
+      "Nicola"
+    ],
+    "last_name": "Wikramanayake",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00003997",
+    "mother_id": "00003998",
+    "spouse_id_list": [],
+    "child_id_list": []
+  }
+}

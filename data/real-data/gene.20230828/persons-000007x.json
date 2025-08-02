@@ -1,0 +1,2066 @@
+{
+  "00000700": {
+    "id": "00000700",
+    "name_list": [
+      "Madhavi"
+    ],
+    "last_name": "Senadhipathy",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000699",
+    "mother_id": "00000965",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000701": {
+    "id": "00000701",
+    "name_list": [
+      "Ravi"
+    ],
+    "last_name": "Senadhipathy",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000699",
+    "mother_id": "00000965",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000702": {
+    "id": "00000702",
+    "name_list": [
+      "UNKNOWN"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000722",
+    "mother_id": "00000692",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000703": {
+    "id": "00000703",
+    "name_list": [
+      "UNKNOWN"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000734",
+    "mother_id": "00000885",
+    "spouse_id_list": [
+      "00000307"
+    ],
+    "child_id_list": [
+      "00000271",
+      "00000305",
+      "00000312",
+      "00000293",
+      "00000296",
+      "00000322",
+      "00000321",
+      "00000272",
+      "00000280",
+      "00000294",
+      "00000287"
+    ]
+  },
+  "00000704": {
+    "id": "00000704",
+    "name_list": [
+      "Alexander"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Former Headmaster of St. Mary's College  Negombo. Later ran his own school."
+    ],
+    "father_id": "00000734",
+    "mother_id": "00000885",
+    "spouse_id_list": [
+      "00001003"
+    ],
+    "child_id_list": [
+      "00000779",
+      "00000764",
+      "00000776",
+      "00000726",
+      "00000724",
+      "00000778",
+      "00000729"
+    ]
+  },
+  "00000705": {
+    "id": "00000705",
+    "name_list": [
+      "Amara"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000722",
+    "mother_id": "00000692",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000706": {
+    "id": "00000706",
+    "name_list": [
+      "Ami"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000734",
+    "mother_id": "00000885",
+    "spouse_id_list": [],
+    "child_id_list": [
+      "00000884",
+      "00000867"
+    ]
+  },
+  "00000707": {
+    "id": "00000707",
+    "name_list": [
+      "Ayodya"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000762",
+    "mother_id": "00000327",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000708": {
+    "id": "00000708",
+    "name_list": [
+      "Badra"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000773",
+    "mother_id": "00000594",
+    "spouse_id_list": [
+      "00000254"
+    ],
+    "child_id_list": [
+      "00000255"
+    ]
+  },
+  "00000709": {
+    "id": "00000709",
+    "name_list": [
+      "Bertram"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000722",
+    "mother_id": "00000692",
+    "spouse_id_list": [],
+    "child_id_list": [
+      "00000719",
+      "00000761",
+      "00000745"
+    ]
+  },
+  "00000710": {
+    "id": "00000710",
+    "name_list": [
+      "Bessie"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000722",
+    "mother_id": "00000692",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000711": {
+    "id": "00000711",
+    "name_list": [
+      "Brian"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000714",
+    "mother_id": "00000151",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000712": {
+    "id": "00000712",
+    "name_list": [
+      "Buwanakabahu",
+      "Piyanage",
+      "Victor",
+      "Alexander",
+      "Justin",
+      "Poornawamsa"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "1922",
+    "death_date": "2006",
+    "details": [
+      "Civil Servent",
+      "BSc Hons)  Physics)",
+      "Of the former Ceylon Civil Service. At the time of retirement was the Permenent Secretary to the Ministry of Planning and Plan Implementation. Later appointed Regional Director of the IPPF  International Planned Parenthood Federation.) Appointed Chairman of SLICM Sri Lanka Institute of Cooperate Management). Resigned to do research on Epistomology. Wrote a book THE NATURE OF KNOWLEDGE in 1993.",
+      "Died in 2006 (http://archives.sundayobserver.lk/2006/02/26/obits.html)"
+    ],
+    "father_id": "00000778",
+    "mother_id": "00000127",
+    "spouse_id_list": [
+      "00000179"
+    ],
+    "child_id_list": [
+      "00000769",
+      "00000768",
+      "00000754"
+    ]
+  },
+  "00000713": {
+    "id": "00000713",
+    "name_list": [
+      "Caroline"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Teacher",
+      "Hikkaduwa. No children"
+    ],
+    "father_id": "00000730",
+    "mother_id": "00000052",
+    "spouse_id_list": [
+      "00000240"
+    ],
+    "child_id_list": []
+  },
+  "00000714": {
+    "id": "00000714",
+    "name_list": [
+      "Cassius"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Deputy  Rubber Commisioner Brother of Christy Senaratna  Staff Royal College Colombo 7."
+    ],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000151"
+    ],
+    "child_id_list": [
+      "00000711",
+      "00000744",
+      "00000746",
+      "00000725"
+    ]
+  },
+  "00000715": {
+    "id": "00000715",
+    "name_list": [
+      "Cedric"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Former Chairman of Tourist Board. Now in Canada."
+    ],
+    "father_id": "00000717",
+    "mother_id": "00000155",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000716": {
+    "id": "00000716",
+    "name_list": [
+      "Chandrasiri"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Psychiatrist",
+      "Came first in the island at the S. S. C. examination and was awarded the Hewawitharana Prize. Senior Lecturer at the Peradeniya Training Hospital. Now an emigrant with wife and children to Australia."
+    ],
+    "father_id": "00000773",
+    "mother_id": "00000594",
+    "spouse_id_list": [
+      "00000918"
+    ],
+    "child_id_list": [
+      "00000757",
+      "00000739"
+    ]
+  },
+  "00000717": {
+    "id": "00000717",
+    "name_list": [
+      "Claude"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "PROPRIETOR  BROKERAGE FIRM",
+      "Brokerage Firm  SAB SENARATNA & CO. Offices in York St.  Hulftdorph and Ratnapura  during the governorship of  Sir Andrew Caldecott  19371944)."
+    ],
+    "father_id": "00000722",
+    "mother_id": "00000692",
+    "spouse_id_list": [
+      "00000155"
+    ],
+    "child_id_list": [
+      "00000715",
+      "00000758"
+    ]
+  },
+  "00000718": {
+    "id": "00000718",
+    "name_list": [
+      "Clinton"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "2004",
+    "details": [
+      "Surveyor",
+      "Licenced surveyor and leveller.",
+      "Resided at 23, Boteju Mawatha, Colombo 5",
+      "Died in 2004 (http://archives.dailynews.lk/2004/09/23/obits.html)"
+    ],
+    "father_id": "00000778",
+    "mother_id": "00000127",
+    "spouse_id_list": [
+      "00001030"
+    ],
+    "child_id_list": [
+      "00000741"
+    ]
+  },
+  "00000719": {
+    "id": "00000719",
+    "name_list": [
+      "Devapriya"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000709",
+    "mother_id": null,
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000720": {
+    "id": "00000720",
+    "name_list": [
+      "Devini",
+      "Manouri"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "1986",
+    "death_date": "",
+    "details": [
+      "Student Visakha Vidyalaya  Colombo"
+    ],
+    "father_id": "00000769",
+    "mother_id": "00000041",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000721": {
+    "id": "00000721",
+    "name_list": [
+      "Dilukshi"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000774",
+    "mother_id": "00000517",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000722": {
+    "id": "00000722",
+    "name_list": [
+      "Don",
+      "Charles"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Eclectic Physician",
+      "LCMC"
+    ],
+    "father_id": "00000734",
+    "mother_id": "00000885",
+    "spouse_id_list": [
+      "00000692"
+    ],
+    "child_id_list": [
+      "00000732",
+      "00000705",
+      "00000710",
+      "00000717",
+      "00000773",
+      "00000709",
+      "00000702",
+      "00000763"
+    ]
+  },
+  "00000723": {
+    "id": "00000723",
+    "name_list": [
+      "Douglas",
+      "\"Gigi\""
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "1998",
+    "details": [
+      "Journalist",
+      "Sub Editor of  SUNDAY TIMES"
+    ],
+    "father_id": "00000778",
+    "mother_id": "00000127",
+    "spouse_id_list": [
+      "00000992"
+    ],
+    "child_id_list": []
+  },
+  "00000724": {
+    "id": "00000724",
+    "name_list": [
+      "Dulcie"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Music teacher"
+    ],
+    "father_id": "00000704",
+    "mother_id": "00001003",
+    "spouse_id_list": [
+      "00000159"
+    ],
+    "child_id_list": [
+      "00000153",
+      "00000142"
+    ]
+  },
+  "00000725": {
+    "id": "00000725",
+    "name_list": [
+      "Elane"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000714",
+    "mother_id": "00000151",
+    "spouse_id_list": [
+      "00000477"
+    ],
+    "child_id_list": []
+  },
+  "00000726": {
+    "id": "00000726",
+    "name_list": [
+      "Frances"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "1912  Hons. Junior  Trinity College of Music. 1914  Came first in the Senior  Trinity College of Music. 191~  Came first in theL. T. C. L.   Trinity College of Music. Died at Childbirth."
+    ],
+    "father_id": "00000704",
+    "mother_id": "00001003",
+    "spouse_id_list": [
+      "00000312"
+    ],
+    "child_id_list": [
+      "00000292"
+    ]
+  },
+  "00000727": {
+    "id": "00000727",
+    "name_list": [
+      "Harriet"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "1939",
+    "death_date": "",
+    "details": [
+      "Physical Training Instructess",
+      "Trained at Saidapet  Madras  India. Badminton Coach. Winner of the Badminton TRIPLECROWN many times."
+    ],
+    "father_id": "00000778",
+    "mother_id": "00000127",
+    "spouse_id_list": [
+      "00000542"
+    ],
+    "child_id_list": [
+      "00000541",
+      "00000540"
+    ]
+  },
+  "00000728": {
+    "id": "00000728",
+    "name_list": [
+      "Hugh"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Died aged 2."
+    ],
+    "father_id": "00000778",
+    "mother_id": "00000127",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000729": {
+    "id": "00000729",
+    "name_list": [
+      "Ivan"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Died around the age of 20."
+    ],
+    "father_id": "00000704",
+    "mother_id": "00001003",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000730": {
+    "id": "00000730",
+    "name_list": [
+      "James"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Mudliyar stationed in the eastern province."
+    ],
+    "father_id": "00000734",
+    "mother_id": "00000885",
+    "spouse_id_list": [
+      "00000052"
+    ],
+    "child_id_list": [
+      "00000733",
+      "00000777",
+      "00000713"
+    ]
+  },
+  "00000731": {
+    "id": "00000731",
+    "name_list": [
+      "James",
+      "\"Bubsy\""
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Retired of Police Founded Security Company"
+    ],
+    "father_id": "00000778",
+    "mother_id": "00000127",
+    "spouse_id_list": [
+      "00000242"
+    ],
+    "child_id_list": [
+      "00000772",
+      "00000765",
+      "00000742"
+    ]
+  },
+  "00000732": {
+    "id": "00000732",
+    "name_list": [
+      "Jessie"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000722",
+    "mother_id": "00000692",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000733": {
+    "id": "00000733",
+    "name_list": [
+      "Justin"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Accountant",
+      "In Malaysia"
+    ],
+    "father_id": "00000730",
+    "mother_id": "00000052",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000734": {
+    "id": "00000734",
+    "name_list": [
+      "Justin"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000735",
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000885"
+    ],
+    "child_id_list": [
+      "00000722",
+      "00000750",
+      "00000730",
+      "00000704",
+      "00000766",
+      "00000775",
+      "00000703",
+      "00000706"
+    ]
+  },
+  "00000735": {
+    "id": "00000735",
+    "name_list": [
+      "Justin",
+      "Senaratnas",
+      "Father"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "1810",
+    "death_date": "",
+    "details": [],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [],
+    "child_id_list": [
+      "00000734",
+      "00000736"
+    ]
+  },
+  "00000736": {
+    "id": "00000736",
+    "name_list": [
+      "Justin",
+      "Senaratnas",
+      "Sister"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000735",
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000513"
+    ],
+    "child_id_list": [
+      "00000512"
+    ]
+  },
+  "00000737": {
+    "id": "00000737",
+    "name_list": [
+      "Kamala"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Died Young"
+    ],
+    "father_id": "00000773",
+    "mother_id": "00000594",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000738": {
+    "id": "00000738",
+    "name_list": [
+      "Kamalakanth"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Died Young"
+    ],
+    "father_id": "00000773",
+    "mother_id": "00000594",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000739": {
+    "id": "00000739",
+    "name_list": [
+      "Kamani"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000716",
+    "mother_id": "00000918",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000740": {
+    "id": "00000740",
+    "name_list": [
+      "Kavisha"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000762",
+    "mother_id": "00000327",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000741": {
+    "id": "00000741",
+    "name_list": [
+      "Kishani"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Law student University of Colombo."
+    ],
+    "father_id": "00000718",
+    "mother_id": "00001030",
+    "spouse_id_list": [
+      "00000853"
+    ],
+    "child_id_list": [
+      "00000852",
+      "00000854",
+      "00000851"
+    ]
+  },
+  "00000742": {
+    "id": "00000742",
+    "name_list": [
+      "Krishanthi"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000731",
+    "mother_id": "00000242",
+    "spouse_id_list": [
+      "00000200"
+    ],
+    "child_id_list": [
+      "00000199"
+    ]
+  },
+  "00000743": {
+    "id": "00000743",
+    "name_list": [
+      "Lalith"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "In the U. K."
+    ],
+    "father_id": "00000758",
+    "mother_id": "00000891",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000744": {
+    "id": "00000744",
+    "name_list": [
+      "Lorraine"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Died in Vienna"
+    ],
+    "father_id": "00000714",
+    "mother_id": "00000151",
+    "spouse_id_list": [
+      "00000515"
+    ],
+    "child_id_list": [
+      "00000516"
+    ]
+  },
+  "00000745": {
+    "id": "00000745",
+    "name_list": [
+      "Mahinda"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000709",
+    "mother_id": null,
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000746": {
+    "id": "00000746",
+    "name_list": [
+      "Malcolm"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000714",
+    "mother_id": "00000151",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000747": {
+    "id": "00000747",
+    "name_list": [
+      "Malik"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "1980",
+    "death_date": "",
+    "details": [
+      "University Student  London."
+    ],
+    "father_id": "00000756",
+    "mother_id": "00000552",
+    "spouse_id_list": [
+      "00000906"
+    ],
+    "child_id_list": []
+  },
+  "00000748": {
+    "id": "00000748",
+    "name_list": [
+      "Martin"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000287"
+    ],
+    "child_id_list": [
+      "00000771",
+      "00000752"
+    ]
+  },
+  "00000749": {
+    "id": "00000749",
+    "name_list": [
+      "Maud"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Died aged  4."
+    ],
+    "father_id": "00000778",
+    "mother_id": "00000127",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000750": {
+    "id": "00000750",
+    "name_list": [
+      "Mercie"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000734",
+    "mother_id": "00000885",
+    "spouse_id_list": [
+      "00000146"
+    ],
+    "child_id_list": [
+      "00000163",
+      "00000150",
+      "00000147",
+      "00000144",
+      "00000148"
+    ]
+  },
+  "00000751": {
+    "id": "00000751",
+    "name_list": [
+      "Mignonne"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "In the U. K."
+    ],
+    "father_id": "00000758",
+    "mother_id": "00000891",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000752": {
+    "id": "00000752",
+    "name_list": [
+      "Muriel"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Spinster"
+    ],
+    "father_id": "00000748",
+    "mother_id": "00000287",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000753": {
+    "id": "00000753",
+    "name_list": [
+      "Nalini"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Teacher"
+    ],
+    "father_id": "00000773",
+    "mother_id": "00000594",
+    "spouse_id_list": [
+      "00000631"
+    ],
+    "child_id_list": [
+      "00000634",
+      "00000622"
+    ]
+  },
+  "00000754": {
+    "id": "00000754",
+    "name_list": [
+      "Naomali",
+      "Lalani"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "1959",
+    "death_date": "",
+    "details": [
+      "Doctor",
+      "MBBS  MD  MRCP  London)",
+      "Consultant Cardiologist at the Sri Jayawardenapura Hospital. Invitational cardiologist Baloon Angioplasty. Studied for Postgraduate degree at John Radcliff Hospital  Oxford."
+    ],
+    "father_id": "00000712",
+    "mother_id": "00000179",
+    "spouse_id_list": [
+      "00000064"
+    ],
+    "child_id_list": []
+  },
+  "00000755": {
+    "id": "00000755",
+    "name_list": [
+      "Nelunika"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000774",
+    "mother_id": "00000517",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000756": {
+    "id": "00000756",
+    "name_list": [
+      "Neville"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "1937",
+    "death_date": "2021",
+    "details": [
+      "International Tennis Coach",
+      "In the U. K."
+    ],
+    "father_id": "00000778",
+    "mother_id": "00000127",
+    "spouse_id_list": [
+      "00000552"
+    ],
+    "child_id_list": [
+      "00000747",
+      "00000770"
+    ]
+  },
+  "00000757": {
+    "id": "00000757",
+    "name_list": [
+      "Nishantha"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000716",
+    "mother_id": "00000918",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000758": {
+    "id": "00000758",
+    "name_list": [
+      "Noel"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Journalist",
+      "Ex of TIMES OF CEYLON and later news editor of the DAILY MIRROR."
+    ],
+    "father_id": "00000717",
+    "mother_id": "00000155",
+    "spouse_id_list": [
+      "00000891"
+    ],
+    "child_id_list": [
+      "00000767",
+      "00000751",
+      "00000743"
+    ]
+  },
+  "00000759": {
+    "id": "00000759",
+    "name_list": [
+      "Nuwan",
+      "Ishanta"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "1982",
+    "death_date": "",
+    "details": [
+      "Student Royal College  Colombo",
+      "Computer Scientist (https://www.linkedin.com/in/nuwansenaratna/)",
+      "Compiler"
+    ],
+    "father_id": "00000769",
+    "mother_id": "00000041",
+    "spouse_id_list": [
+      "00000080"
+    ],
+    "child_id_list": []
+  },
+  "00000760": {
+    "id": "00000760",
+    "name_list": [
+      "Oscar"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Pharmasist"
+    ],
+    "father_id": "00000764",
+    "mother_id": "00000158",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000761": {
+    "id": "00000761",
+    "name_list": [
+      "Padmini"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000709",
+    "mother_id": null,
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000762": {
+    "id": "00000762",
+    "name_list": [
+      "Parakrama"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "ACCOUNTANT"
+    ],
+    "father_id": "00000773",
+    "mother_id": "00000594",
+    "spouse_id_list": [
+      "00000327"
+    ],
+    "child_id_list": [
+      "00000707",
+      "00000740"
+    ]
+  },
+  "00000763": {
+    "id": "00000763",
+    "name_list": [
+      "Paul"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Bachelor"
+    ],
+    "father_id": "00000722",
+    "mother_id": "00000692",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000764": {
+    "id": "00000764",
+    "name_list": [
+      "Percy"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Proctor",
+      "Died Young"
+    ],
+    "father_id": "00000704",
+    "mother_id": "00001003",
+    "spouse_id_list": [
+      "00000158"
+    ],
+    "child_id_list": [
+      "00000760"
+    ]
+  },
+  "00000765": {
+    "id": "00000765",
+    "name_list": [
+      "Piroshini"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Accountant"
+    ],
+    "father_id": "00000731",
+    "mother_id": "00000242",
+    "spouse_id_list": [
+      "00000857"
+    ],
+    "child_id_list": [
+      "00000858",
+      "00000856"
+    ]
+  },
+  "00000766": {
+    "id": "00000766",
+    "name_list": [
+      "Podi",
+      "Nona"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Spinster"
+    ],
+    "father_id": "00000734",
+    "mother_id": "00000885",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000767": {
+    "id": "00000767",
+    "name_list": [
+      "Premanie"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "In the U. K."
+    ],
+    "father_id": "00000758",
+    "mother_id": "00000891",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000768": {
+    "id": "00000768",
+    "name_list": [
+      "Priyanthi",
+      "Rohini"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "1953",
+    "death_date": "",
+    "details": [
+      "Teacher",
+      "LRSM  London)  AMI Montissori method of Education  SL)",
+      "Fine Arts Teacher at the AMERICAN INTERNATIONAL SCHOOL  Abu Dhabi  UAE."
+    ],
+    "father_id": "00000712",
+    "mother_id": "00000179",
+    "spouse_id_list": [
+      "00000817"
+    ],
+    "child_id_list": [
+      "00000814",
+      "00000816"
+    ]
+  },
+  "00000769": {
+    "id": "00000769",
+    "name_list": [
+      "Ranil",
+      "Ishanta"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "1951",
+    "death_date": "",
+    "details": [
+      "Chartered Electrical Engineer",
+      "BSc  Hons)  M.I.E.  SL)  MBA",
+      "Director  FENTONS LTD."
+    ],
+    "father_id": "00000712",
+    "mother_id": "00000179",
+    "spouse_id_list": [
+      "00000041"
+    ],
+    "child_id_list": [
+      "00000759",
+      "00000720"
+    ]
+  },
+  "00000770": {
+    "id": "00000770",
+    "name_list": [
+      "Ranmali"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Hotel Management"
+    ],
+    "father_id": "00000756",
+    "mother_id": "00000552",
+    "spouse_id_list": [
+      "00000172",
+      "00000533"
+    ],
+    "child_id_list": []
+  },
+  "00000771": {
+    "id": "00000771",
+    "name_list": [
+      "Rex"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Bachelor"
+    ],
+    "father_id": "00000748",
+    "mother_id": "00000287",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000772": {
+    "id": "00000772",
+    "name_list": [
+      "Samanda"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "AttorneyatLaw"
+    ],
+    "father_id": "00000731",
+    "mother_id": "00000242",
+    "spouse_id_list": [
+      "00000139"
+    ],
+    "child_id_list": [
+      "00000138",
+      "00000140"
+    ]
+  },
+  "00000773": {
+    "id": "00000773",
+    "name_list": [
+      "Samson"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Of SRIMATHI  Sabaragamuwa."
+    ],
+    "father_id": "00000722",
+    "mother_id": "00000692",
+    "spouse_id_list": [
+      "00000594"
+    ],
+    "child_id_list": [
+      "00000716",
+      "00000774",
+      "00000738",
+      "00000753",
+      "00000762",
+      "00000708",
+      "00000737"
+    ]
+  },
+  "00000774": {
+    "id": "00000774",
+    "name_list": [
+      "Sepala"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Of HAYLES  Galle"
+    ],
+    "father_id": "00000773",
+    "mother_id": "00000594",
+    "spouse_id_list": [
+      "00000517"
+    ],
+    "child_id_list": [
+      "00000721",
+      "00000755"
+    ]
+  },
+  "00000775": {
+    "id": "00000775",
+    "name_list": [
+      "Simeon",
+      "Simmy"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Became a Buddhist Monk"
+    ],
+    "father_id": "00000734",
+    "mother_id": "00000885",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000776": {
+    "id": "00000776",
+    "name_list": [
+      "Sylvia"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000704",
+    "mother_id": "00001003",
+    "spouse_id_list": [
+      "00000007"
+    ],
+    "child_id_list": [
+      "00000001",
+      "00000006"
+    ]
+  },
+  "00000777": {
+    "id": "00000777",
+    "name_list": [
+      "Venetia"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Spinster"
+    ],
+    "father_id": "00000730",
+    "mother_id": "00000052",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000778": {
+    "id": "00000778",
+    "name_list": [
+      "Victor",
+      "Alexander",
+      "Lucien"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Surveyor",
+      "1913 Hons. in the Junior Music exam and first in Ceylon. 1914 Hons. in the Intermidiate Music exam and second in Ceylon."
+    ],
+    "father_id": "00000704",
+    "mother_id": "00001003",
+    "spouse_id_list": [
+      "00000127"
+    ],
+    "child_id_list": [
+      "00000712",
+      "00000731",
+      "00000723",
+      "00000749",
+      "00000728",
+      "00000727",
+      "00000756",
+      "00000718"
+    ]
+  },
+  "00000779": {
+    "id": "00000779",
+    "name_list": [
+      "Vivienne"
+    ],
+    "last_name": "Senaratna",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [
+      "Placed third in Ceylon in the Advance Examination  of the Trinity College of Music  London."
+    ],
+    "father_id": "00000704",
+    "mother_id": "00001003",
+    "spouse_id_list": [
+      "00000229"
+    ],
+    "child_id_list": [
+      "00000218",
+      "00000211",
+      "00000219",
+      "00000228",
+      "00000216",
+      "00000212",
+      "00000220",
+      "00000225",
+      "00000227",
+      "00000221"
+    ]
+  },
+  "00000780": {
+    "id": "00000780",
+    "name_list": [
+      "Channa"
+    ],
+    "last_name": "Senaratne",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000782",
+    "mother_id": "00000863",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000781": {
+    "id": "00000781",
+    "name_list": [
+      "Charlotte",
+      "Mollyn",
+      "Kalyani"
+    ],
+    "last_name": "Senaratne",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000790",
+    "mother_id": "00000527",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000782": {
+    "id": "00000782",
+    "name_list": [
+      "Cyril",
+      "DCP"
+    ],
+    "last_name": "Senaratne",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000786",
+    "mother_id": "00000955",
+    "spouse_id_list": [
+      "00000863"
+    ],
+    "child_id_list": [
+      "00000780",
+      "00000792",
+      "00000794",
+      "00000807"
+    ]
+  },
+  "00000783": {
+    "id": "00000783",
+    "name_list": [
+      "Dharmaraja"
+    ],
+    "last_name": "Senaratne",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000790",
+    "mother_id": "00000527",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000784": {
+    "id": "00000784",
+    "name_list": [
+      "Don",
+      "Porolis",
+      "Abeysekara",
+      "Kirindiwela"
+    ],
+    "last_name": "Senaratne",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000413"
+    ],
+    "child_id_list": [
+      "00000795",
+      "00000799",
+      "00000785"
+    ]
+  },
+  "00000785": {
+    "id": "00000785",
+    "name_list": [
+      "Dona",
+      "Ana"
+    ],
+    "last_name": "Senaratne",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000784",
+    "mother_id": "00000413",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000786": {
+    "id": "00000786",
+    "name_list": [
+      "Dona",
+      "Edas",
+      "Husband"
+    ],
+    "last_name": "Senaratne",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": null,
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000955"
+    ],
+    "child_id_list": [
+      "00000800",
+      "00000782"
+    ]
+  },
+  "00000787": {
+    "id": "00000787",
+    "name_list": [
+      "Dulendra",
+      "Dhushyanthashri"
+    ],
+    "last_name": "Senaratne",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000810",
+    "mother_id": "00000019",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000788": {
+    "id": "00000788",
+    "name_list": [
+      "Eda",
+      "Jasmine",
+      "Mildred"
+    ],
+    "last_name": "Senaratne",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000795",
+    "mother_id": null,
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000789": {
+    "id": "00000789",
+    "name_list": [
+      "Eiline",
+      "Ruby"
+    ],
+    "last_name": "Senaratne",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000795",
+    "mother_id": null,
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000790": {
+    "id": "00000790",
+    "name_list": [
+      "Ernest",
+      "Reginald"
+    ],
+    "last_name": "Senaratne",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000795",
+    "mother_id": null,
+    "spouse_id_list": [
+      "00000527"
+    ],
+    "child_id_list": [
+      "00000806",
+      "00000783",
+      "00000793",
+      "00000781",
+      "00000796"
+    ]
+  },
+  "00000791": {
+    "id": "00000791",
+    "name_list": [
+      "Ganishta"
+    ],
+    "last_name": "Senaratne",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000809",
+    "mother_id": "00000573",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000792": {
+    "id": "00000792",
+    "name_list": [
+      "INS"
+    ],
+    "last_name": "Senaratne",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000782",
+    "mother_id": "00000863",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000793": {
+    "id": "00000793",
+    "name_list": [
+      "Iranganee",
+      "Kamala"
+    ],
+    "last_name": "Senaratne",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000790",
+    "mother_id": "00000527",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000794": {
+    "id": "00000794",
+    "name_list": [
+      "JGS"
+    ],
+    "last_name": "Senaratne",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000782",
+    "mother_id": "00000863",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000795": {
+    "id": "00000795",
+    "name_list": [
+      "James"
+    ],
+    "last_name": "Senaratne",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000784",
+    "mother_id": "00000413",
+    "spouse_id_list": [],
+    "child_id_list": [
+      "00000789",
+      "00000813",
+      "00000788",
+      "00000801",
+      "00000790",
+      "00000805"
+    ]
+  },
+  "00000796": {
+    "id": "00000796",
+    "name_list": [
+      "Kamini"
+    ],
+    "last_name": "Senaratne",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000790",
+    "mother_id": "00000527",
+    "spouse_id_list": [],
+    "child_id_list": []
+  },
+  "00000797": {
+    "id": "00000797",
+    "name_list": [
+      "Lawrence",
+      "Premasiri"
+    ],
+    "last_name": "Senaratne",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000799",
+    "mother_id": "00000865",
+    "spouse_id_list": [
+      "00002612"
+    ],
+    "child_id_list": []
+  },
+  "00000798": {
+    "id": "00000798",
+    "name_list": [
+      "Leonora",
+      "Rupa",
+      "Ranjani"
+    ],
+    "last_name": "Senaratne",
+    "other_name_list": [],
+    "gender": "female",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000799",
+    "mother_id": "00000865",
+    "spouse_id_list": [
+      "00002619"
+    ],
+    "child_id_list": []
+  },
+  "00000799": {
+    "id": "00000799",
+    "name_list": [
+      "D",
+      "Lewis"
+    ],
+    "last_name": "Senaratne",
+    "other_name_list": [],
+    "gender": "male",
+    "birth_date": "",
+    "death_date": "",
+    "details": [],
+    "father_id": "00000784",
+    "mother_id": "00000413",
+    "spouse_id_list": [
+      "00000865"
+    ],
+    "child_id_list": [
+      "00000803",
+      "00002622",
+      "00002627",
+      "00002613",
+      "00000804",
+      "00002620",
+      "00000812",
+      "00000797",
+      "00000798"
+    ]
+  }
+}
